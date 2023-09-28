@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.22)  29 SEP 2023 00:16
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.22)  29 SEP 2023 00:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -363,7 +363,7 @@ LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-29>
  ***********
 Package rerunfilecheck Info: File `"Der Freie Christ".out' has not changed.
-(rerunfilecheck)             Checksum: 16C35289C0ED03165F272CDD2B3A1AB3;3556.
+(rerunfilecheck)             Checksum: 7E51E1372886570DA8BA769392246B88;3495.
  ) 
 Here is how much of TeX's memory you used:
  10322 strings out of 474927
@@ -381,7 +381,7 @@ fonts/type1/public/cm-super/sfbx2074.pfb><a:/texlive/2023/texmf-dist/fonts/type
 m-super/sfrm1440.pfb><a:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sf
 ti1200.pfb><a:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfti1440.pfb
 >
-Output written on "Der Freie Christ.pdf" (5 pages, 173302 bytes).
+Output written on "Der Freie Christ.pdf" (5 pages, 173660 bytes).
 PDF statistics:
  190 PDF objects out of 1000 (max. 8388607)
  165 compressed objects within 2 object streams
