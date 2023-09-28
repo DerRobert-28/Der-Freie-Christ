@@ -7,17 +7,17 @@
 \contentsline {subsection}{\numberline {2.1}Keine Kirchengemeinde}{3}{subsection.2.1}%
 \contentsline {subsection}{\numberline {2.2}Der Wahre Bund}{3}{subsection.2.2}%
 \contentsline {subsection}{\numberline {2.3}Die Bibel als \char "22{Werkzeug}\char "22 }{4}{subsection.2.3}%
-\contentsline {section}{\numberline {3}Die 10 Gebote}{4}{section.3}%
-\contentsline {subsection}{\numberline {3.1}Das oberste Gebot lautet ...}{4}{subsection.3.1}%
-\contentsline {subsection}{\numberline {3.2}Das erste Gebot}{4}{subsection.3.2}%
-\contentsline {subsection}{\numberline {3.3}Das zweite Gebot}{4}{subsection.3.3}%
-\contentsline {subsection}{\numberline {3.4}Das dritte Gebot}{4}{subsection.3.4}%
-\contentsline {subsection}{\numberline {3.5}Das vierte Gebot}{4}{subsection.3.5}%
-\contentsline {subsection}{\numberline {3.6}Das f\"unfte Gebot}{4}{subsection.3.6}%
-\contentsline {subsection}{\numberline {3.7}Das sechste Gebot}{5}{subsection.3.7}%
-\contentsline {subsection}{\numberline {3.8}Das siebte Gebot}{5}{subsection.3.8}%
-\contentsline {subsection}{\numberline {3.9}Das achte Gebot}{5}{subsection.3.9}%
-\contentsline {subsection}{\numberline {3.10}Das neunte Gebot}{5}{subsection.3.10}%
-\contentsline {subsection}{\numberline {3.11}Das zehnte Gebot}{5}{subsection.3.11}%
+\contentsline {section}{\numberline {3}Die Zehn Gebote}{4}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Das Oberste Angebot lautet ...}{4}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Das Erste Angebot}{4}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Das Zweite Angebot}{4}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Das Dritte Angebot}{4}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}Das Vierte Angebot}{4}{subsection.3.5}%
+\contentsline {subsection}{\numberline {3.6}Das F\"unfte Angebot}{5}{subsection.3.6}%
+\contentsline {subsection}{\numberline {3.7}Das Sechste Angebot}{5}{subsection.3.7}%
+\contentsline {subsection}{\numberline {3.8}Das Siebte Angebot}{5}{subsection.3.8}%
+\contentsline {subsection}{\numberline {3.9}Das Achte Angebot}{5}{subsection.3.9}%
+\contentsline {subsection}{\numberline {3.10}Das Neunte Angebot}{5}{subsection.3.10}%
+\contentsline {subsection}{\numberline {3.11}Das Zehnte Angebot}{5}{subsection.3.11}%
 \contentsline {section}{\numberline {4}Mein Leben mit {\textbf {GOTT}}}{5}{section.4}%
 \contentsline {subsection}{\numberline {4.1}Mittwoch, der 27. September 2023}{5}{subsection.4.1}%
