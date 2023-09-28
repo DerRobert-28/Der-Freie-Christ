@@ -7,9 +7,11 @@
 \contentsline {subsection}{\numberline {2.1}No church community}{3}{subsection.2.1}%
 \contentsline {subsection}{\numberline {2.2}The True Bond}{3}{subsection.2.2}%
 \contentsline {subsection}{\numberline {2.3}The Bible as a \char "22{tool}\char "22 }{4}{subsection.2.3}%
-\contentsline {subsection}{\numberline {2.4}Das f\"unfte Gebot}{4}{subsection.2.4}%
-\contentsline {subsection}{\numberline {2.5}Das sechste Gebot}{4}{subsection.2.5}%
-\contentsline {subsection}{\numberline {2.6}Das siebte Gebot}{4}{subsection.2.6}%
-\contentsline {subsection}{\numberline {2.7}Das achte Gebot}{4}{subsection.2.7}%
-\contentsline {subsection}{\numberline {2.8}Das neunte Gebot}{4}{subsection.2.8}%
-\contentsline {section}{\numberline {3}My life with {\textbf {GOD}}}{4}{section.3}%
+\contentsline {section}{\numberline {3}The Ten Commandments}{4}{section.3}%
+\contentsline {subsection}{\numberline {3.1}The Highest Commandment is ...}{4}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Das f\"unfte Gebot}{4}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Das sechste Gebot}{4}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Das siebte Gebot}{4}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}Das achte Gebot}{4}{subsection.3.5}%
+\contentsline {subsection}{\numberline {3.6}Das neunte Gebot}{4}{subsection.3.6}%
+\contentsline {section}{\numberline {4}My life with {\textbf {GOD}}}{5}{section.4}%
