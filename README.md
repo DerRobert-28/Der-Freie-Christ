@@ -1,7 +1,7 @@
 # Der Freie Christ
 
 "Der Freie Christ" ist ein kostenloses e-Book,
-das du hier [hier](https://github.com/DerRobert-28/Der-Freie-Christ/blob/master/src/Der%20Freie%20Christ.pdf) lesen kannst.
+das du [hier](https://github.com/DerRobert-28/Der-Freie-Christ/blob/master/src/Der%20Freie%20Christ.pdf) lesen kannst.
 Zum Herunterladen klicke einfach auf den obigen Link mit rechts,
 wähle im Kontextmenü "Ziel speichern unter",
 und wähle dann deinen Zielordner aus.
