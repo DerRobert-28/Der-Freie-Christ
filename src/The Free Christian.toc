@@ -6,9 +6,10 @@
 \contentsline {section}{\numberline {2}What makes up a \char "22{Free Christian}\char "22 ?}{3}{section.2}%
 \contentsline {subsection}{\numberline {2.1}No church community}{3}{subsection.2.1}%
 \contentsline {subsection}{\numberline {2.2}The True Bond}{3}{subsection.2.2}%
-\contentsline {subsection}{\numberline {2.3}Das f\"unfte Gebot}{4}{subsection.2.3}%
-\contentsline {subsection}{\numberline {2.4}Das sechste Gebot}{4}{subsection.2.4}%
-\contentsline {subsection}{\numberline {2.5}Das siebte Gebot}{4}{subsection.2.5}%
-\contentsline {subsection}{\numberline {2.6}Das achte Gebot}{4}{subsection.2.6}%
-\contentsline {subsection}{\numberline {2.7}Das neunte Gebot}{4}{subsection.2.7}%
+\contentsline {subsection}{\numberline {2.3}The Bible as a \char "22{tool}\char "22 }{4}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Das f\"unfte Gebot}{4}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}Das sechste Gebot}{4}{subsection.2.5}%
+\contentsline {subsection}{\numberline {2.6}Das siebte Gebot}{4}{subsection.2.6}%
+\contentsline {subsection}{\numberline {2.7}Das achte Gebot}{4}{subsection.2.7}%
+\contentsline {subsection}{\numberline {2.8}Das neunte Gebot}{4}{subsection.2.8}%
 \contentsline {section}{\numberline {3}My life with {\textbf {GOD}}}{4}{section.3}%
