@@ -11,7 +11,7 @@
 \contentsline {subsection}{\numberline {3.1}Das Oberste Angebot}{4}{subsection.3.1}%
 \contentsline {subsection}{\numberline {3.2}Das Erste Angebot}{4}{subsection.3.2}%
 \contentsline {subsection}{\numberline {3.3}Das Zweite Angebot}{4}{subsection.3.3}%
-\contentsline {subsection}{\numberline {3.4}Das Dritte Angebot}{4}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.4}Das Dritte Angebot}{5}{subsection.3.4}%
 \contentsline {subsection}{\numberline {3.5}Das Vierte Angebot}{5}{subsection.3.5}%
 \contentsline {subsection}{\numberline {3.6}Das F\"unfte Angebot}{5}{subsection.3.6}%
 \contentsline {subsection}{\numberline {3.7}Das Sechste Angebot}{5}{subsection.3.7}%
@@ -19,5 +19,5 @@
 \contentsline {subsection}{\numberline {3.9}Das Achte Angebot}{5}{subsection.3.9}%
 \contentsline {subsection}{\numberline {3.10}Das Neunte Angebot}{5}{subsection.3.10}%
 \contentsline {subsection}{\numberline {3.11}Das Zehnte Angebot}{5}{subsection.3.11}%
-\contentsline {section}{\numberline {4}Mein Leben mit {\textbf {GOTT}}}{5}{section.4}%
-\contentsline {subsection}{\numberline {4.1}Mittwoch, der 27. September 2023}{5}{subsection.4.1}%
+\contentsline {section}{\numberline {4}Mein Leben mit {\textbf {GOTT}}}{6}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Mittwoch, der 27. September 2023}{6}{subsection.4.1}%
