@@ -7,12 +7,13 @@
 \contentsline {subsection}{\numberline {2.1}No church community}{3}{subsection.2.1}%
 \contentsline {subsection}{\numberline {2.2}The true bond}{3}{subsection.2.2}%
 \contentsline {subsection}{\numberline {2.3}The Bible as a \char "22{tool}\char "22 }{4}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Belief and science}{4}{subsection.2.4}%
 \contentsline {section}{\numberline {3}The Ten Commandments}{4}{section.3}%
 \contentsline {subsection}{\numberline {3.1}The Highest Offer}{4}{subsection.3.1}%
 \contentsline {subsection}{\numberline {3.2}The First Offer}{4}{subsection.3.2}%
 \contentsline {subsection}{\numberline {3.3}The Second Offer}{4}{subsection.3.3}%
 \contentsline {subsection}{\numberline {3.4}The Third Offer}{4}{subsection.3.4}%
-\contentsline {subsection}{\numberline {3.5}The Fourth Offer}{4}{subsection.3.5}%
+\contentsline {subsection}{\numberline {3.5}The Fourth Offer}{5}{subsection.3.5}%
 \contentsline {subsection}{\numberline {3.6}The Fifth Offer}{5}{subsection.3.6}%
 \contentsline {subsection}{\numberline {3.7}The Sixth Offer}{5}{subsection.3.7}%
 \contentsline {subsection}{\numberline {3.8}The Seventh Offer}{5}{subsection.3.8}%
@@ -20,4 +21,5 @@
 \contentsline {subsection}{\numberline {3.10}The Ninth Offer}{5}{subsection.3.10}%
 \contentsline {subsection}{\numberline {3.11}The Tenth Offer}{5}{subsection.3.11}%
 \contentsline {section}{\numberline {4}My life with {\textbf {GOD}}}{5}{section.4}%
-\contentsline {subsection}{\numberline {4.1}Wednesday, September 27th, 2023}{5}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.1}Wednesday, September 27th, 2023}{6}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Friday, September 29th, 2023}{6}{subsection.4.2}%
