@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.22)  29 SEP 2023 00:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.22)  29 SEP 2023 20:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -342,27 +342,34 @@ LaTeX Font Info:    External font `cmex10' loaded for size
  [2]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\char' on input line 107.
+(hyperref)                removing `\char' on input line 110.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\char' on input line 107.
+(hyperref)                removing `\char' on input line 110.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\char' on input line 133.
+(hyperref)                removing `\char' on input line 136.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\char' on input line 133.
+(hyperref)                removing `\char' on input line 136.
 
 [3] [4] [5] (./The Free Christian.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-29>
  ***********
-Package rerunfilecheck Info: File `"The Free Christian".out' has not changed.
-(rerunfilecheck)             Checksum: 389F3505A871C92D492D5416105AC55F;3293.
+
+
+Package rerunfilecheck Warning: File `"The Free Christian".out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `"The Free Christian".out':
+(rerunfilecheck)             Before: 97D91C2F6ABD22683B0F4024E28AC37D;3315
+(rerunfilecheck)             After:  389F3505A871C92D492D5416105AC55F;3293.
  ) 
 Here is how much of TeX's memory you used:
  10236 strings out of 474927
@@ -380,7 +387,7 @@ fonts/type1/public/cm-super/sfbx2074.pfb><a:/texlive/2023/texmf-dist/fonts/type
 m-super/sfrm1440.pfb><a:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sf
 ti1200.pfb><a:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfti1440.pfb
 >
-Output written on "The Free Christian.pdf" (5 pages, 162836 bytes).
+Output written on "The Free Christian.pdf" (5 pages, 162963 bytes).
 PDF statistics:
  190 PDF objects out of 1000 (max. 8388607)
  165 compressed objects within 2 object streams

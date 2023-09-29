@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.22)  29 SEP 2023 00:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.22)  29 SEP 2023 20:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -342,33 +342,40 @@ LaTeX Font Info:    External font `cmex10' loaded for size
  [2]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\char' on input line 128.
+(hyperref)                removing `\char' on input line 131.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\char' on input line 128.
+(hyperref)                removing `\char' on input line 131.
 
 [3]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\char' on input line 155.
+(hyperref)                removing `\char' on input line 158.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\char' on input line 155.
+(hyperref)                removing `\char' on input line 158.
 
-[4] [5] (./Der Freie Christ.aux)
+[4] [5] [6] (./Der Freie Christ.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-29>
  ***********
-Package rerunfilecheck Info: File `"Der Freie Christ".out' has not changed.
-(rerunfilecheck)             Checksum: 7E51E1372886570DA8BA769392246B88;3495.
+
+
+Package rerunfilecheck Warning: File `"Der Freie Christ".out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `"Der Freie Christ".out':
+(rerunfilecheck)             Before: F92B7D416CD345670E925549D45BEC0C;3517
+(rerunfilecheck)             After:  7E51E1372886570DA8BA769392246B88;3495.
  ) 
 Here is how much of TeX's memory you used:
- 10322 strings out of 474927
- 161224 string characters out of 5763541
- 1926785 words of memory out of 5000000
+ 10323 strings out of 474927
+ 161230 string characters out of 5763541
+ 1927785 words of memory out of 5000000
  31737 multiletter control sequences out of 15000+600000
  569267 words of font info for 58 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -381,10 +388,10 @@ fonts/type1/public/cm-super/sfbx2074.pfb><a:/texlive/2023/texmf-dist/fonts/type
 m-super/sfrm1440.pfb><a:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sf
 ti1200.pfb><a:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfti1440.pfb
 >
-Output written on "Der Freie Christ.pdf" (5 pages, 173660 bytes).
+Output written on "Der Freie Christ.pdf" (6 pages, 174152 bytes).
 PDF statistics:
- 190 PDF objects out of 1000 (max. 8388607)
- 165 compressed objects within 2 object streams
- 29 named destinations out of 1000 (max. 500000)
+ 194 PDF objects out of 1000 (max. 8388607)
+ 168 compressed objects within 2 object streams
+ 30 named destinations out of 1000 (max. 500000)
  177 words of extra memory for PDF output out of 10000 (max. 10000000)
 
