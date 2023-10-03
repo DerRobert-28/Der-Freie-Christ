@@ -25,3 +25,4 @@
 \contentsline {section}{\numberline {4}Mein Leben mit {\textbf {GOTT}}}{9}{section.4}%
 \contentsline {subsection}{\numberline {4.1}Mittwoch, der 27. September 2023}{9}{subsection.4.1}%
 \contentsline {subsection}{\numberline {4.2}Freitag, der 29. September 2023}{9}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Dienstag, der 3. Oktober 2023}{9}{subsection.4.3}%
