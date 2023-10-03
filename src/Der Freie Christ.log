@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.22)  29 SEP 2023 22:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.22)  3 OCT 2023 22:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -339,46 +339,56 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 \tf@toc=\write4
 \openout4 = `"Der Freie Christ.toc"'.
 
- [2]
+ [2] [3]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\char' on input line 132.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\char' on input line 132.
-
-[3]
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\char' on input line 159.
+(hyperref)                removing `\char' on input line 140.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\char' on input line 159.
+(hyperref)                removing `\char' on input line 140.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\char' on input line 168.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\char' on input line 168.
 
 [4] [5]
-LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 3
-76.
+Underfull \hbox (badness 10000) in paragraph at lines 313--315
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 329--356
+
+ []
+
+[6] [7{a:/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
+[8]
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 5
+60.
  (a:/texlive/2023/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
-) [6] [7]
+) [9]
 (./Der Freie Christ.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-29>
  ***********
 Package rerunfilecheck Info: File `"Der Freie Christ".out' has not changed.
-(rerunfilecheck)             Checksum: FDD865009A7ACF070B059F67CC3E0AF1;3899.
+(rerunfilecheck)             Checksum: 717847B031A1BC888FBFD03FB7852C02;4180.
  ) 
 Here is how much of TeX's memory you used:
- 10353 strings out of 474927
- 161969 string characters out of 5763541
- 1927785 words of memory out of 5000000
- 31759 multiletter control sequences out of 15000+600000
- 570279 words of font info for 60 fonts, out of 8000000 for 9000
+ 10383 strings out of 474927
+ 162411 string characters out of 5763541
+ 1928785 words of memory out of 5000000
+ 31773 multiletter control sequences out of 15000+600000
+ 570616 words of font info for 61 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,6n,79p,329b,444s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,6n,79p,329b,550s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <a:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbi1200.pfb><a:/texl
 ive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb><a:/texlive/2023/t
 exmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb><a:/texlive/2023/texmf-dist/
@@ -388,10 +398,10 @@ m-super/sfrm1200.pfb><a:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sf
 rm1440.pfb><a:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb
 ><a:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfti1440.pfb><a:/texli
 ve/2023/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb>
-Output written on "Der Freie Christ.pdf" (7 pages, 227234 bytes).
+Output written on "Der Freie Christ.pdf" (9 pages, 238119 bytes).
 PDF statistics:
- 224 PDF objects out of 1000 (max. 8388607)
- 193 compressed objects within 2 object streams
- 33 named destinations out of 1000 (max. 500000)
- 193 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 263 PDF objects out of 1000 (max. 8388607)
+ 228 compressed objects within 3 object streams
+ 47 named destinations out of 1000 (max. 500000)
+ 209 words of extra memory for PDF output out of 10000 (max. 10000000)
 
