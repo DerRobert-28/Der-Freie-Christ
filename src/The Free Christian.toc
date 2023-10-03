@@ -20,6 +20,8 @@
 \contentsline {subsection}{\numberline {3.9}The Eighth Offer}{6}{subsection.3.9}%
 \contentsline {subsection}{\numberline {3.10}The Ninth Offer}{6}{subsection.3.10}%
 \contentsline {subsection}{\numberline {3.11}The Tenth Offer}{6}{subsection.3.11}%
-\contentsline {section}{\numberline {4}My life with {\textbf {GOD}}}{7}{section.4}%
-\contentsline {subsection}{\numberline {4.1}Wednesday, September 27th, 2023}{7}{subsection.4.1}%
-\contentsline {subsection}{\numberline {4.2}Friday, September 29th, 2023}{7}{subsection.4.2}%
+\contentsline {subsection}{\numberline {3.12}Summary}{6}{subsection.3.12}%
+\contentsline {subsection}{\numberline {3.13}Comparison}{7}{subsection.3.13}%
+\contentsline {section}{\numberline {4}My life with {\textbf {GOD}}}{8}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Wednesday, September 27th, 2023}{8}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Friday, September 29th, 2023}{8}{subsection.4.2}%

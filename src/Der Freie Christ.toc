@@ -20,6 +20,8 @@
 \contentsline {subsection}{\numberline {3.9}Das Achte Angebot}{6}{subsection.3.9}%
 \contentsline {subsection}{\numberline {3.10}Das Neunte Angebot}{6}{subsection.3.10}%
 \contentsline {subsection}{\numberline {3.11}Das Zehnte Angebot}{6}{subsection.3.11}%
-\contentsline {section}{\numberline {4}Mein Leben mit {\textbf {GOTT}}}{7}{section.4}%
-\contentsline {subsection}{\numberline {4.1}Mittwoch, der 27. September 2023}{7}{subsection.4.1}%
-\contentsline {subsection}{\numberline {4.2}Freitag, der 29. September 2023}{7}{subsection.4.2}%
+\contentsline {subsection}{\numberline {3.12}Zusammenfassung}{6}{subsection.3.12}%
+\contentsline {subsection}{\numberline {3.13}Gegen\"uberstellung}{7}{subsection.3.13}%
+\contentsline {section}{\numberline {4}Mein Leben mit {\textbf {GOTT}}}{9}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Mittwoch, der 27. September 2023}{9}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Freitag, der 29. September 2023}{9}{subsection.4.2}%

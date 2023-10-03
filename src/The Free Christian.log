@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.22)  29 SEP 2023 22:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.22)  3 OCT 2023 20:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -350,31 +350,36 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\char' on input line 144.
+(hyperref)                removing `\char' on input line 145.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\char' on input line 144.
+(hyperref)                removing `\char' on input line 145.
 
-[4] [5] [6]
-LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 3
-69.
+[4] [5]
+Underfull \hbox (badness 10000) in paragraph at lines 294--296
+
+ []
+
+[6] [7]
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 5
+42.
  (a:/texlive/2023/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
-) [7]
+) [8]
 (./The Free Christian.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-29>
  ***********
 Package rerunfilecheck Info: File `"The Free Christian".out' has not changed.
-(rerunfilecheck)             Checksum: 246822CC8A167AA529F52839A0F78559;3654.
+(rerunfilecheck)             Checksum: 842469E78A25CBAF39A0B2D9918A0805;3857.
  ) 
 Here is how much of TeX's memory you used:
- 10267 strings out of 474927
- 160927 string characters out of 5763541
- 1927785 words of memory out of 5000000
- 31676 multiletter control sequences out of 15000+600000
+ 10287 strings out of 474927
+ 161194 string characters out of 5763541
+ 1928785 words of memory out of 5000000
+ 31683 multiletter control sequences out of 15000+600000
  570279 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,6n,79p,306b,444s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -387,10 +392,10 @@ m-super/sfrm1200.pfb><a:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sf
 rm1440.pfb><a:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb
 ><a:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfti1440.pfb><a:/texli
 ve/2023/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb>
-Output written on "The Free Christian.pdf" (7 pages, 214903 bytes).
+Output written on "The Free Christian.pdf" (8 pages, 216829 bytes).
 PDF statistics:
- 223 PDF objects out of 1000 (max. 8388607)
- 192 compressed objects within 2 object streams
- 33 named destinations out of 1000 (max. 500000)
- 193 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 252 PDF objects out of 1000 (max. 8388607)
+ 219 compressed objects within 3 object streams
+ 46 named destinations out of 1000 (max. 500000)
+ 209 words of extra memory for PDF output out of 10000 (max. 10000000)
 
