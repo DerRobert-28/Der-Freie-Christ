@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.22)  4 OCT 2023 16:58
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.22)  4 OCT 2023 17:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -389,26 +389,26 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\char' on input line 158.
 
 [4] [5]
-Underfull \hbox (badness 10000) in paragraph at lines 321--323
+Underfull \hbox (badness 10000) in paragraph at lines 462--464
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 337--363
+Underfull \hbox (badness 10000) in paragraph at lines 478--504
 
  []
 
 [6] [7{a:/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
 [8] [9] [10]
-LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 6
-33.
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 7
+74.
  (a:/texlive/2023/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 ) [11]
 [12]
 File: FreeChristian.jpeg Graphic file (type jpg)
 <use FreeChristian.jpeg>
-Package pdftex.def Info: FreeChristian.jpeg  used on input line 674.
+Package pdftex.def Info: FreeChristian.jpeg  used on input line 815.
 (pdftex.def)             Requested size: 455.24411pt x 302.16534pt.
  [13] (./The Free Christian.aux)
  ***********
