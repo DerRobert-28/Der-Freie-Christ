@@ -8,6 +8,7 @@
 \contentsline {subsection}{\numberline {2.2}The true bond}{4}{subsection.2.2}%
 \contentsline {subsection}{\numberline {2.3}The Bible as a \char "22{tool}\char "22 }{4}{subsection.2.3}%
 \contentsline {subsection}{\numberline {2.4}Belief and science}{4}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}What do I know about {\textbf {GOD}}?}{4}{subsection.2.5}%
 \contentsline {section}{\numberline {3}The Ten Commandments}{5}{section.3}%
 \contentsline {subsection}{\numberline {3.1}The Highest Offer}{5}{subsection.3.1}%
 \contentsline {subsection}{\numberline {3.2}The First Offer}{5}{subsection.3.2}%

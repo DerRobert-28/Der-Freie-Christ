@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.22)  4 OCT 2023 16:27
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.22)  4 OCT 2023 16:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -351,7 +351,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <14.4> on input line 49.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 49.
-<FreeChristian.jpeg, id=128, 1606.0pt x 1065.9825pt>
+<FreeChristian.jpeg, id=132, 1606.0pt x 1065.9825pt>
 File: FreeChristian.jpeg Graphic file (type jpg)
 <use FreeChristian.jpeg>
 Package pdftex.def Info: FreeChristian.jpeg  used on input line 51.
@@ -389,19 +389,19 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\char' on input line 158.
 
 [4] [5]
-Underfull \hbox (badness 10000) in paragraph at lines 307--309
+Underfull \hbox (badness 10000) in paragraph at lines 321--323
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 323--349
+Underfull \hbox (badness 10000) in paragraph at lines 337--363
 
  []
 
 [6] [7{a:/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
 [8] [9] [10]
 LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 6
-19.
+33.
  (a:/texlive/2023/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 ) [11]
@@ -411,13 +411,13 @@ LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-29>
  ***********
 Package rerunfilecheck Info: File `"The Free Christian".out' has not changed.
-(rerunfilecheck)             Checksum: BF07373A88DF4FD88F88787A5C9E6B24;4733.
+(rerunfilecheck)             Checksum: 57F799057D97C9E8B2ABFF6FCE168A16;4931.
  ) 
 Here is how much of TeX's memory you used:
- 10661 strings out of 474927
- 167582 string characters out of 5763541
- 1930785 words of memory out of 5000000
- 32028 multiletter control sequences out of 15000+600000
+ 10663 strings out of 474927
+ 167612 string characters out of 5763541
+ 1931785 words of memory out of 5000000
+ 32029 multiletter control sequences out of 15000+600000
  570616 words of font info for 61 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,6n,79p,306b,553s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -430,10 +430,10 @@ m-super/sfrm1200.pfb><a:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sf
 rm1440.pfb><a:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb
 ><a:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfti1440.pfb><a:/texli
 ve/2023/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb>
-Output written on "The Free Christian.pdf" (12 pages, 369596 bytes).
+Output written on "The Free Christian.pdf" (12 pages, 370741 bytes).
 PDF statistics:
- 305 PDF objects out of 1000 (max. 8388607)
- 266 compressed objects within 3 object streams
- 55 named destinations out of 1000 (max. 500000)
- 254 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 310 PDF objects out of 1000 (max. 8388607)
+ 271 compressed objects within 3 object streams
+ 56 named destinations out of 1000 (max. 500000)
+ 262 words of extra memory for PDF output out of 10000 (max. 10000000)
 
