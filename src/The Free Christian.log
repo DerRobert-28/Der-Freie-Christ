@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.22)  4 OCT 2023 15:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.22)  4 OCT 2023 15:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -378,8 +378,15 @@ File: t1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-29>
  ***********
-Package rerunfilecheck Info: File `"The Free Christian".out' has not changed.
-(rerunfilecheck)             Checksum: BF07373A88DF4FD88F88787A5C9E6B24;4733.
+
+
+Package rerunfilecheck Warning: File `"The Free Christian".out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `"The Free Christian".out':
+(rerunfilecheck)             Before: 6BAF5694D6AB23C0238FA6DDE6DBE965;4764
+(rerunfilecheck)             After:  BF07373A88DF4FD88F88787A5C9E6B24;4733.
  ) 
 Here is how much of TeX's memory you used:
  10314 strings out of 474927
