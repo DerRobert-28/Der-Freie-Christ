@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.22)  4 OCT 2023 16:53
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.22)  4 OCT 2023 16:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -406,17 +406,29 @@ LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 6
  (a:/texlive/2023/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 ) [11]
-[12] (./Der Freie Christ.aux)
+[12]
+File: FreeChristian.jpeg Graphic file (type jpg)
+<use FreeChristian.jpeg>
+Package pdftex.def Info: FreeChristian.jpeg  used on input line 695.
+(pdftex.def)             Requested size: 455.24411pt x 302.16534pt.
+ [13] (./Der Freie Christ.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-29>
  ***********
-Package rerunfilecheck Info: File `"Der Freie Christ".out' has not changed.
-(rerunfilecheck)             Checksum: B3100B8AFADCE5102F6D713DD2C48540;5303.
+
+
+Package rerunfilecheck Warning: File `"Der Freie Christ".out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `"Der Freie Christ".out':
+(rerunfilecheck)             Before: B3100B8AFADCE5102F6D713DD2C48540;5303
+(rerunfilecheck)             After:  557674B5210E478A9B35A8B70FFA389F;5451.
  ) 
 Here is how much of TeX's memory you used:
- 10748 strings out of 474927
- 168754 string characters out of 5763541
+ 10750 strings out of 474927
+ 168770 string characters out of 5763541
  1931785 words of memory out of 5000000
  32111 multiletter control sequences out of 15000+600000
  570616 words of font info for 61 fonts, out of 8000000 for 9000
@@ -431,10 +443,10 @@ m-super/sfrm1200.pfb><a:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sf
 rm1440.pfb><a:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb
 ><a:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfti1440.pfb><a:/texli
 ve/2023/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb>
-Output written on "Der Freie Christ.pdf" (12 pages, 383855 bytes).
+Output written on "Der Freie Christ.pdf" (13 pages, 384521 bytes).
 PDF statistics:
- 310 PDF objects out of 1000 (max. 8388607)
- 271 compressed objects within 3 object streams
- 56 named destinations out of 1000 (max. 500000)
+ 316 PDF objects out of 1000 (max. 8388607)
+ 276 compressed objects within 3 object streams
+ 58 named destinations out of 1000 (max. 500000)
  262 words of extra memory for PDF output out of 10000 (max. 10000000)
 
