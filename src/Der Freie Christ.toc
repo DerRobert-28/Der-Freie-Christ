@@ -52,9 +52,12 @@
 \contentsline {subsubsection}{\numberline {6.1.2}Wenn ihr in der Gruppe betet}{15}{subsubsection.6.1.2}%
 \contentsline {subsection}{\numberline {6.2}{\textbf {JESUS}}, komm in mein Leben}{16}{subsection.6.2}%
 \contentsline {subsection}{\numberline {6.3}Das Glaubensbekenntnis}{16}{subsection.6.3}%
-\contentsline {section}{\numberline {7}Mein Leben mit {\textbf {GOTT}}}{17}{section.7}%
-\contentsline {subsection}{\numberline {7.1}Mittwoch, der 27. September 2023}{17}{subsection.7.1}%
-\contentsline {subsection}{\numberline {7.2}Freitag, der 29. September 2023}{17}{subsection.7.2}%
-\contentsline {subsection}{\numberline {7.3}Dienstag, der 3. Oktober 2023}{17}{subsection.7.3}%
-\contentsline {subsection}{\numberline {7.4}Samstag, der 7. Oktober 2023}{18}{subsection.7.4}%
-\contentsline {section}{\numberline {8}Friede sei mit dir!}{19}{section.8}%
+\contentsline {subsection}{\numberline {6.4}Wie ein Fest nach langer Trauer}{17}{subsection.6.4}%
+\contentsline {subsubsection}{\numberline {6.4.1}Infos}{17}{subsubsection.6.4.1}%
+\contentsline {subsubsection}{\numberline {6.4.2}Text}{17}{subsubsection.6.4.2}%
+\contentsline {section}{\numberline {7}Mein Leben mit {\textbf {GOTT}}}{18}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Mittwoch, der 27. September 2023}{18}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}Freitag, der 29. September 2023}{18}{subsection.7.2}%
+\contentsline {subsection}{\numberline {7.3}Dienstag, der 3. Oktober 2023}{18}{subsection.7.3}%
+\contentsline {subsection}{\numberline {7.4}Samstag, der 7. Oktober 2023}{19}{subsection.7.4}%
+\contentsline {section}{\numberline {8}Friede sei mit dir!}{20}{section.8}%
