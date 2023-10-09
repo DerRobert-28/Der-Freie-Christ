@@ -49,7 +49,8 @@
 \contentsline {section}{\numberline {6}Will I go to {\textbf {HEAVEN}}?}{15}{section.6}%
 \contentsline {subsection}{\numberline {6.1}Completely in general}{15}{subsection.6.1}%
 \contentsline {subsection}{\numberline {6.2}We are all sinners}{15}{subsection.6.2}%
-\contentsline {subsection}{\numberline {6.3}Summary}{16}{subsection.6.3}%
+\contentsline {subsection}{\numberline {6.3}What can I do?}{16}{subsection.6.3}%
+\contentsline {subsection}{\numberline {6.4}Summary}{17}{subsection.6.4}%
 \contentsline {section}{\numberline {7}Prayers, Hymns and Alleluiahs}{18}{section.7}%
 \contentsline {subsection}{\numberline {7.1}The {\textbf {LORD's}} Prayer}{18}{subsection.7.1}%
 \contentsline {subsubsection}{\numberline {7.1.1}If you are praying alone}{18}{subsubsection.7.1.1}%
