@@ -53,19 +53,21 @@
 \contentsline {subsection}{\numberline {7.2}Wir sind alle S\"under}{16}{subsection.7.2}%
 \contentsline {subsection}{\numberline {7.3}Was kann ich tun?}{18}{subsection.7.3}%
 \contentsline {subsection}{\numberline {7.4}Zusammenfassung}{19}{subsection.7.4}%
-\contentsline {section}{\numberline {8}Gebete und Loblieder}{20}{section.8}%
-\contentsline {subsection}{\numberline {8.1}Das {\textbf {VATER}}-Unser}{20}{subsection.8.1}%
-\contentsline {subsubsection}{\numberline {8.1.1}Wenn du alleine betest}{20}{subsubsection.8.1.1}%
-\contentsline {subsubsection}{\numberline {8.1.2}Wenn ihr in der Gruppe betet}{20}{subsubsection.8.1.2}%
-\contentsline {subsection}{\numberline {8.2}{\textbf {JESUS}}, komm in mein Leben}{21}{subsection.8.2}%
-\contentsline {subsection}{\numberline {8.3}Das Glaubensbekenntnis}{21}{subsection.8.3}%
-\contentsline {subsection}{\numberline {8.4}Wie ein Fest nach langer Trauer}{22}{subsection.8.4}%
-\contentsline {subsubsection}{\numberline {8.4.1}Infos}{22}{subsubsection.8.4.1}%
-\contentsline {subsubsection}{\numberline {8.4.2}Text}{22}{subsubsection.8.4.2}%
-\contentsline {section}{\numberline {9}Mein Leben mit {\textbf {GOTT}}}{23}{section.9}%
-\contentsline {subsection}{\numberline {9.1}Mittwoch, der 27. September 2023}{23}{subsection.9.1}%
-\contentsline {subsection}{\numberline {9.2}Freitag, der 29. September 2023}{23}{subsection.9.2}%
-\contentsline {subsection}{\numberline {9.3}Dienstag, der 3. Oktober 2023}{23}{subsection.9.3}%
-\contentsline {subsection}{\numberline {9.4}Samstag, der 7. Oktober 2023}{24}{subsection.9.4}%
-\contentsline {subsection}{\numberline {9.5}Sonntag, der 8. Oktober 2023}{24}{subsection.9.5}%
-\contentsline {section}{\numberline {10}Friede sei mit dir!}{25}{section.10}%
+\contentsline {section}{\numberline {8}Verschiedene S\"unden genauer betrachtet}{20}{section.8}%
+\contentsline {subsection}{\numberline {8.1}Vom T\"oten}{20}{subsection.8.1}%
+\contentsline {section}{\numberline {9}Gebete und Loblieder}{21}{section.9}%
+\contentsline {subsection}{\numberline {9.1}Das {\textbf {VATER}}-Unser}{21}{subsection.9.1}%
+\contentsline {subsubsection}{\numberline {9.1.1}Wenn du alleine betest}{21}{subsubsection.9.1.1}%
+\contentsline {subsubsection}{\numberline {9.1.2}Wenn ihr in der Gruppe betet}{21}{subsubsection.9.1.2}%
+\contentsline {subsection}{\numberline {9.2}{\textbf {JESUS}}, komm in mein Leben}{22}{subsection.9.2}%
+\contentsline {subsection}{\numberline {9.3}Das Glaubensbekenntnis}{22}{subsection.9.3}%
+\contentsline {subsection}{\numberline {9.4}Wie ein Fest nach langer Trauer}{23}{subsection.9.4}%
+\contentsline {subsubsection}{\numberline {9.4.1}Infos}{23}{subsubsection.9.4.1}%
+\contentsline {subsubsection}{\numberline {9.4.2}Text}{23}{subsubsection.9.4.2}%
+\contentsline {section}{\numberline {10}Mein Leben mit {\textbf {GOTT}}}{24}{section.10}%
+\contentsline {subsection}{\numberline {10.1}Mittwoch, der 27. September 2023}{24}{subsection.10.1}%
+\contentsline {subsection}{\numberline {10.2}Freitag, der 29. September 2023}{24}{subsection.10.2}%
+\contentsline {subsection}{\numberline {10.3}Dienstag, der 3. Oktober 2023}{24}{subsection.10.3}%
+\contentsline {subsection}{\numberline {10.4}Samstag, der 7. Oktober 2023}{25}{subsection.10.4}%
+\contentsline {subsection}{\numberline {10.5}Sonntag, der 8. Oktober 2023}{25}{subsection.10.5}%
+\contentsline {section}{\numberline {11}Friede sei mit dir!}{26}{section.11}%

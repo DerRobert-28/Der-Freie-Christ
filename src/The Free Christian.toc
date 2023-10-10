@@ -53,21 +53,23 @@
 \contentsline {subsection}{\numberline {7.2}We are all sinners}{16}{subsection.7.2}%
 \contentsline {subsection}{\numberline {7.3}What can I do?}{17}{subsection.7.3}%
 \contentsline {subsection}{\numberline {7.4}Summary}{18}{subsection.7.4}%
-\contentsline {section}{\numberline {8}Prayers, Hymns and Alleluiahs}{19}{section.8}%
-\contentsline {subsection}{\numberline {8.1}The {\textbf {LORD's}} Prayer}{19}{subsection.8.1}%
-\contentsline {subsubsection}{\numberline {8.1.1}If you are praying alone}{19}{subsubsection.8.1.1}%
-\contentsline {subsubsection}{\numberline {8.1.2}If you are praying in a group}{19}{subsubsection.8.1.2}%
-\contentsline {subsubsection}{\numberline {8.1.3}If you want to use modern English}{20}{subsubsection.8.1.3}%
-\contentsline {subsection}{\numberline {8.2}{\textbf {JESUS}}, come into my life}{20}{subsection.8.2}%
-\contentsline {subsection}{\numberline {8.3}The Creed of Belief}{20}{subsection.8.3}%
-\contentsline {subsection}{\numberline {8.4}Wie ein Fest nach langer Trauer}{21}{subsection.8.4}%
-\contentsline {subsubsection}{\numberline {8.4.1}Information}{21}{subsubsection.8.4.1}%
-\contentsline {subsubsection}{\numberline {8.4.2}Lyrics}{21}{subsubsection.8.4.2}%
-\contentsline {subsubsection}{\numberline {8.4.3}Translation}{22}{subsubsection.8.4.3}%
-\contentsline {section}{\numberline {9}My life with {\textbf {GOD}}}{23}{section.9}%
-\contentsline {subsection}{\numberline {9.1}Wednesday, September 27th, 2023}{23}{subsection.9.1}%
-\contentsline {subsection}{\numberline {9.2}Friday, September 29th, 2023}{23}{subsection.9.2}%
-\contentsline {subsection}{\numberline {9.3}Tuesday, October 3rd, 2023}{23}{subsection.9.3}%
-\contentsline {subsection}{\numberline {9.4}Saturday, October 7th, 2023}{24}{subsection.9.4}%
-\contentsline {subsection}{\numberline {9.5}Sunday, October 8th, 2023}{24}{subsection.9.5}%
-\contentsline {section}{\numberline {10}Peace be with you!}{25}{section.10}%
+\contentsline {section}{\numberline {8}Examining different sins in detail}{19}{section.8}%
+\contentsline {subsection}{\numberline {8.1}About killing}{19}{subsection.8.1}%
+\contentsline {section}{\numberline {9}Prayers, Hymns and Alleluiahs}{20}{section.9}%
+\contentsline {subsection}{\numberline {9.1}The {\textbf {LORD's}} Prayer}{20}{subsection.9.1}%
+\contentsline {subsubsection}{\numberline {9.1.1}If you are praying alone}{20}{subsubsection.9.1.1}%
+\contentsline {subsubsection}{\numberline {9.1.2}If you are praying in a group}{20}{subsubsection.9.1.2}%
+\contentsline {subsubsection}{\numberline {9.1.3}If you want to use modern English}{21}{subsubsection.9.1.3}%
+\contentsline {subsection}{\numberline {9.2}{\textbf {JESUS}}, come into my life}{21}{subsection.9.2}%
+\contentsline {subsection}{\numberline {9.3}The Creed of Belief}{21}{subsection.9.3}%
+\contentsline {subsection}{\numberline {9.4}Wie ein Fest nach langer Trauer}{22}{subsection.9.4}%
+\contentsline {subsubsection}{\numberline {9.4.1}Information}{22}{subsubsection.9.4.1}%
+\contentsline {subsubsection}{\numberline {9.4.2}Lyrics}{22}{subsubsection.9.4.2}%
+\contentsline {subsubsection}{\numberline {9.4.3}Translation}{23}{subsubsection.9.4.3}%
+\contentsline {section}{\numberline {10}My life with {\textbf {GOD}}}{24}{section.10}%
+\contentsline {subsection}{\numberline {10.1}Wednesday, September 27th, 2023}{24}{subsection.10.1}%
+\contentsline {subsection}{\numberline {10.2}Friday, September 29th, 2023}{24}{subsection.10.2}%
+\contentsline {subsection}{\numberline {10.3}Tuesday, October 3rd, 2023}{24}{subsection.10.3}%
+\contentsline {subsection}{\numberline {10.4}Saturday, October 7th, 2023}{25}{subsection.10.4}%
+\contentsline {subsection}{\numberline {10.5}Sunday, October 8th, 2023}{25}{subsection.10.5}%
+\contentsline {section}{\numberline {11}Peace be with you!}{26}{section.11}%
