@@ -55,20 +55,27 @@
 \contentsline {subsection}{\numberline {7.4}Zusammenfassung}{24}{subsection.7.4}%
 \contentsline {section}{\numberline {8}Verschiedene S\"unden genauer betrachtet}{25}{section.8}%
 \contentsline {subsection}{\numberline {8.1}Vom T\"oten}{25}{subsection.8.1}%
-\contentsline {section}{\numberline {9}Gebete und Loblieder}{26}{section.9}%
-\contentsline {subsection}{\numberline {9.1}Das {\textbf {VATER}}-Unser}{26}{subsection.9.1}%
-\contentsline {subsubsection}{\numberline {9.1.1}Wenn du alleine betest}{26}{subsubsection.9.1.1}%
-\contentsline {subsubsection}{\numberline {9.1.2}Wenn ihr in der Gruppe betet}{26}{subsubsection.9.1.2}%
-\contentsline {subsection}{\numberline {9.2}{\textbf {JESUS}}, komm in mein Leben}{27}{subsection.9.2}%
-\contentsline {subsection}{\numberline {9.3}\"Ubergabegebet}{27}{subsection.9.3}%
-\contentsline {subsection}{\numberline {9.4}Das Glaubensbekenntnis}{29}{subsection.9.4}%
-\contentsline {subsection}{\numberline {9.5}Wie ein Fest nach langer Trauer}{29}{subsection.9.5}%
-\contentsline {subsubsection}{\numberline {9.5.1}Infos}{29}{subsubsection.9.5.1}%
-\contentsline {subsubsection}{\numberline {9.5.2}Text}{29}{subsubsection.9.5.2}%
-\contentsline {section}{\numberline {10}Mein Leben mit {\textbf {GOTT}}}{31}{section.10}%
-\contentsline {subsection}{\numberline {10.1}Mittwoch, der 27. September 2023}{31}{subsection.10.1}%
-\contentsline {subsection}{\numberline {10.2}Freitag, der 29. September 2023}{31}{subsection.10.2}%
-\contentsline {subsection}{\numberline {10.3}Dienstag, der 3. Oktober 2023}{32}{subsection.10.3}%
-\contentsline {subsection}{\numberline {10.4}Samstag, der 7. Oktober 2023}{32}{subsection.10.4}%
-\contentsline {subsection}{\numberline {10.5}Sonntag, der 8. Oktober 2023}{32}{subsection.10.5}%
-\contentsline {section}{\numberline {11}Friede sei mit dir!}{34}{section.11}%
+\contentsline {subsubsection}{\numberline {8.1.1}T\"oten von Mitmenschen}{25}{subsubsection.8.1.1}%
+\contentsline {subsubsection}{\numberline {8.1.2}Ein Spezialfall}{26}{subsubsection.8.1.2}%
+\contentsline {subsubsection}{\numberline {8.1.3}Das Trolley-Problem}{26}{subsubsection.8.1.3}%
+\contentsline {subsubsection}{\numberline {8.1.4}Andere Formen des aktiven T\"otens}{27}{subsubsection.8.1.4}%
+\contentsline {subsubsection}{\numberline {8.1.5}Passives T\"oten}{27}{subsubsection.8.1.5}%
+\contentsline {subsubsection}{\numberline {8.1.6}Weitere T\"otungsarten}{28}{subsubsection.8.1.6}%
+\contentsline {subsubsection}{\numberline {8.1.7}Zusammenfassung}{28}{subsubsection.8.1.7}%
+\contentsline {section}{\numberline {9}Gebete und Loblieder}{29}{section.9}%
+\contentsline {subsection}{\numberline {9.1}Das {\textbf {VATER}}-Unser}{29}{subsection.9.1}%
+\contentsline {subsubsection}{\numberline {9.1.1}Wenn du alleine betest}{29}{subsubsection.9.1.1}%
+\contentsline {subsubsection}{\numberline {9.1.2}Wenn ihr in der Gruppe betet}{29}{subsubsection.9.1.2}%
+\contentsline {subsection}{\numberline {9.2}{\textbf {JESUS}}, komm in mein Leben}{30}{subsection.9.2}%
+\contentsline {subsection}{\numberline {9.3}\"Ubergabegebet}{30}{subsection.9.3}%
+\contentsline {subsection}{\numberline {9.4}Das Glaubensbekenntnis}{32}{subsection.9.4}%
+\contentsline {subsection}{\numberline {9.5}Wie ein Fest nach langer Trauer}{32}{subsection.9.5}%
+\contentsline {subsubsection}{\numberline {9.5.1}Infos}{32}{subsubsection.9.5.1}%
+\contentsline {subsubsection}{\numberline {9.5.2}Text}{32}{subsubsection.9.5.2}%
+\contentsline {section}{\numberline {10}Mein Leben mit {\textbf {GOTT}}}{34}{section.10}%
+\contentsline {subsection}{\numberline {10.1}Mittwoch, der 27. September 2023}{34}{subsection.10.1}%
+\contentsline {subsection}{\numberline {10.2}Freitag, der 29. September 2023}{34}{subsection.10.2}%
+\contentsline {subsection}{\numberline {10.3}Dienstag, der 3. Oktober 2023}{35}{subsection.10.3}%
+\contentsline {subsection}{\numberline {10.4}Samstag, der 7. Oktober 2023}{35}{subsection.10.4}%
+\contentsline {subsection}{\numberline {10.5}Sonntag, der 8. Oktober 2023}{35}{subsection.10.5}%
+\contentsline {section}{\numberline {11}Friede sei mit dir!}{37}{section.11}%
