@@ -1,7 +1,7 @@
 # Der Freie Christ
 
 "Der Freie Christ" ist ein kostenloses e-Book.
-Die aktuellste Version kannst du [hier](https://github.com/DerRobert-28/Der-Freie-Christ/blob/master/src/The%20Free%20Christian.pdf) direkt lesen.
+Die aktuellste Version kannst du [hier](https://github.com/DerRobert-28/Der-Freie-Christ/blob/master/src/Der%20Freie%20Christ.pdf) direkt lesen.
 \
 Das monatliche Release kannst du kostenlos auf [Leanpub](https://leanpub.com/derfreiechrist) oder [Lulu.com](https://www.lulu.com/shop/robert-lang-kirchhöfer/der-freie-christ/ebook/product-45v87qv.html) bspw. für deinen e-Book-Reader herunterladen.
 
