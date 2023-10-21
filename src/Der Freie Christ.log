@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.22)  21 OCT 2023 16:30
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.22)  21 OCT 2023 21:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -466,51 +466,58 @@ cmr/bx/n/10 darfst \T1/cmr/m/n/10 den-noch \T1/cmr/bx/n/10 GOT-TES \T1/cmr/m/it
  []
 
 [24] [25] [26] [27] [28] [29] [30] [31] [32] [33] [34] [35] [36]
-Underfull \hbox (badness 10000) in paragraph at lines 2185--2189
+Underfull \hbox (badness 10000) in paragraph at lines 2187--2191
 
  []
 
 [37] [38] [39] [40]
 LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 2
-380.
+382.
  (a:/texlive/2023/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
 [41] [42] [43]
-Underfull \hbox (badness 10000) in paragraph at lines 2466--2474
+Underfull \hbox (badness 10000) in paragraph at lines 2468--2476
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2481--2483
+Underfull \hbox (badness 10000) in paragraph at lines 2483--2485
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2484--2487
+Underfull \hbox (badness 10000) in paragraph at lines 2486--2489
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2496--2498
+Underfull \hbox (badness 10000) in paragraph at lines 2498--2500
 
  []
 
 File: FreeChristian.jpeg Graphic file (type jpg)
 <use FreeChristian.jpeg>
-Package pdftex.def Info: FreeChristian.jpeg  used on input line 2501.
+Package pdftex.def Info: FreeChristian.jpeg  used on input line 2503.
 (pdftex.def)             Requested size: 273.14647pt x 181.29596pt.
 [44] (./Der Freie Christ.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-29>
  ***********
-Package rerunfilecheck Info: File `"Der Freie Christ".out' has not changed.
-(rerunfilecheck)             Checksum: 16413A1E9AC3C97DEBB18BBC85215FE0;16624.
+
+
+Package rerunfilecheck Warning: File `"Der Freie Christ".out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `"Der Freie Christ".out':
+(rerunfilecheck)             Before: 16413A1E9AC3C97DEBB18BBC85215FE0;16624
+(rerunfilecheck)             After:  3F891A6172E5B89D8836644AA03456B8;16853.
  ) 
 Here is how much of TeX's memory you used:
- 10951 strings out of 474927
- 171445 string characters out of 5763541
+ 10952 strings out of 474927
+ 171464 string characters out of 5763541
  1933785 words of memory out of 5000000
  32195 multiletter control sequences out of 15000+600000
  569691 words of font info for 58 fonts, out of 8000000 for 9000
@@ -526,10 +533,10 @@ frm1000.pfb><a:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pf
 b><a:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb><a:/texl
 ive/2023/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb><a:/texlive/2023/t
 exmf-dist/fonts/type1/public/cm-super/sftt1000.pfb>
-Output written on "Der Freie Christ.pdf" (44 pages, 492632 bytes).
+Output written on "Der Freie Christ.pdf" (44 pages, 492757 bytes).
 PDF statistics:
- 829 PDF objects out of 1000 (max. 8388607)
- 751 compressed objects within 8 object streams
- 175 named destinations out of 1000 (max. 500000)
+ 830 PDF objects out of 1000 (max. 8388607)
+ 752 compressed objects within 8 object streams
+ 176 named destinations out of 1000 (max. 500000)
  758 words of extra memory for PDF output out of 10000 (max. 10000000)
 

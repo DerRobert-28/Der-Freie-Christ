@@ -64,27 +64,35 @@
 \contentsline {subsubsection}{\numberline {8.1.5}Passive killing}{26}{subsubsection.8.1.5}%
 \contentsline {subsubsection}{\numberline {8.1.6}Other forms of killing}{27}{subsubsection.8.1.6}%
 \contentsline {subsubsection}{\numberline {8.1.7}Summary}{27}{subsubsection.8.1.7}%
-\contentsline {subsection}{\numberline {8.2}About cursing and swearing}{27}{subsection.8.2}%
-\contentsline {subsubsection}{\numberline {8.2.1}Swearing and summoning}{27}{subsubsection.8.2.1}%
-\contentsline {subsubsection}{\numberline {8.2.2}Cursing and damning}{28}{subsubsection.8.2.2}%
-\contentsline {subsubsection}{\numberline {8.2.3}Summary}{28}{subsubsection.8.2.3}%
-\contentsline {section}{\numberline {9}Prayers, Hymns and Alleluiahs}{30}{section.9}%
-\contentsline {subsection}{\numberline {9.1}The {\textbf {LORD's}} Prayer}{30}{subsection.9.1}%
-\contentsline {subsubsection}{\numberline {9.1.1}If you are praying alone}{30}{subsubsection.9.1.1}%
-\contentsline {subsubsection}{\numberline {9.1.2}If you are praying in a group}{30}{subsubsection.9.1.2}%
-\contentsline {subsubsection}{\numberline {9.1.3}If you want to use modern English}{31}{subsubsection.9.1.3}%
-\contentsline {subsection}{\numberline {9.2}{\textbf {JESUS}}, come into my life}{31}{subsection.9.2}%
-\contentsline {subsection}{\numberline {9.3}Surrender Prayer}{32}{subsection.9.3}%
-\contentsline {subsection}{\numberline {9.4}The Creed of Belief}{33}{subsection.9.4}%
-\contentsline {subsection}{\numberline {9.5}Wie ein Fest nach langer Trauer}{33}{subsection.9.5}%
-\contentsline {subsubsection}{\numberline {9.5.1}Information}{33}{subsubsection.9.5.1}%
-\contentsline {subsubsection}{\numberline {9.5.2}Lyrics}{33}{subsubsection.9.5.2}%
-\contentsline {subsubsection}{\numberline {9.5.3}Translation}{34}{subsubsection.9.5.3}%
-\contentsline {subsection}{\numberline {9.6}More Christian songs}{35}{subsection.9.6}%
-\contentsline {section}{\numberline {10}My life with {\textbf {GOD}}}{36}{section.10}%
-\contentsline {subsection}{\numberline {10.1}Wednesday, September 27th, 2023}{36}{subsection.10.1}%
-\contentsline {subsection}{\numberline {10.2}Friday, September 29th, 2023}{36}{subsection.10.2}%
-\contentsline {subsection}{\numberline {10.3}Tuesday, October 3rd, 2023}{37}{subsection.10.3}%
-\contentsline {subsection}{\numberline {10.4}Saturday, October 7th, 2023}{37}{subsection.10.4}%
-\contentsline {subsection}{\numberline {10.5}Sunday, October 8th, 2023}{37}{subsection.10.5}%
-\contentsline {section}{\numberline {11}Peace be with you!}{39}{section.11}%
+\contentsline {subsection}{\numberline {8.2}About adultery}{27}{subsection.8.2}%
+\contentsline {subsubsection}{\numberline {8.2.1}Are you in a relationship?}{27}{subsubsection.8.2.1}%
+\contentsline {subsubsection}{\numberline {8.2.2}How is your relationship?}{27}{subsubsection.8.2.2}%
+\contentsline {subsubsection}{\numberline {8.2.3}Why did you stay?}{28}{subsubsection.8.2.3}%
+\contentsline {subsubsection}{\numberline {8.2.4}So, what about adultery?}{28}{subsubsection.8.2.4}%
+\contentsline {subsubsection}{\numberline {8.2.5}A specific topic for adults}{29}{subsubsection.8.2.5}%
+\contentsline {subsubsection}{\numberline {8.2.6}Is masturbation adultery?}{29}{subsubsection.8.2.6}%
+\contentsline {subsubsection}{\numberline {8.2.7}Summary}{30}{subsubsection.8.2.7}%
+\contentsline {subsection}{\numberline {8.3}About cursing and swearing}{30}{subsection.8.3}%
+\contentsline {subsubsection}{\numberline {8.3.1}Swearing and summoning}{31}{subsubsection.8.3.1}%
+\contentsline {subsubsection}{\numberline {8.3.2}Cursing and damning}{31}{subsubsection.8.3.2}%
+\contentsline {subsubsection}{\numberline {8.3.3}Summary}{32}{subsubsection.8.3.3}%
+\contentsline {section}{\numberline {9}Prayers, Hymns and Alleluiahs}{33}{section.9}%
+\contentsline {subsection}{\numberline {9.1}The {\textbf {LORD's}} Prayer}{33}{subsection.9.1}%
+\contentsline {subsubsection}{\numberline {9.1.1}If you are praying alone}{33}{subsubsection.9.1.1}%
+\contentsline {subsubsection}{\numberline {9.1.2}If you are praying in a group}{33}{subsubsection.9.1.2}%
+\contentsline {subsubsection}{\numberline {9.1.3}If you want to use modern English}{34}{subsubsection.9.1.3}%
+\contentsline {subsection}{\numberline {9.2}{\textbf {JESUS}}, come into my life}{34}{subsection.9.2}%
+\contentsline {subsection}{\numberline {9.3}Surrender Prayer}{35}{subsection.9.3}%
+\contentsline {subsection}{\numberline {9.4}The Creed of Belief}{36}{subsection.9.4}%
+\contentsline {subsection}{\numberline {9.5}Wie ein Fest nach langer Trauer}{36}{subsection.9.5}%
+\contentsline {subsubsection}{\numberline {9.5.1}Information}{36}{subsubsection.9.5.1}%
+\contentsline {subsubsection}{\numberline {9.5.2}Lyrics}{36}{subsubsection.9.5.2}%
+\contentsline {subsubsection}{\numberline {9.5.3}Translation}{37}{subsubsection.9.5.3}%
+\contentsline {subsection}{\numberline {9.6}More Christian songs}{38}{subsection.9.6}%
+\contentsline {section}{\numberline {10}My life with {\textbf {GOD}}}{39}{section.10}%
+\contentsline {subsection}{\numberline {10.1}Wednesday, September 27th, 2023}{39}{subsection.10.1}%
+\contentsline {subsection}{\numberline {10.2}Friday, September 29th, 2023}{39}{subsection.10.2}%
+\contentsline {subsection}{\numberline {10.3}Tuesday, October 3rd, 2023}{40}{subsection.10.3}%
+\contentsline {subsection}{\numberline {10.4}Saturday, October 7th, 2023}{40}{subsection.10.4}%
+\contentsline {subsection}{\numberline {10.5}Sunday, October 8th, 2023}{40}{subsection.10.5}%
+\contentsline {section}{\numberline {11}Peace be with you!}{42}{section.11}%
