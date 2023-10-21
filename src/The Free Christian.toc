@@ -80,6 +80,7 @@
 \contentsline {subsubsection}{\numberline {9.5.1}Information}{33}{subsubsection.9.5.1}%
 \contentsline {subsubsection}{\numberline {9.5.2}Lyrics}{33}{subsubsection.9.5.2}%
 \contentsline {subsubsection}{\numberline {9.5.3}Translation}{34}{subsubsection.9.5.3}%
+\contentsline {subsection}{\numberline {9.6}More Christian songs}{35}{subsection.9.6}%
 \contentsline {section}{\numberline {10}My life with {\textbf {GOD}}}{36}{section.10}%
 \contentsline {subsection}{\numberline {10.1}Wednesday, September 27th, 2023}{36}{subsection.10.1}%
 \contentsline {subsection}{\numberline {10.2}Friday, September 29th, 2023}{36}{subsection.10.2}%

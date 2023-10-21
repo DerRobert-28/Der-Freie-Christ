@@ -85,10 +85,11 @@
 \contentsline {subsection}{\numberline {9.5}Wie ein Fest nach langer Trauer}{38}{subsection.9.5}%
 \contentsline {subsubsection}{\numberline {9.5.1}Infos}{38}{subsubsection.9.5.1}%
 \contentsline {subsubsection}{\numberline {9.5.2}Text}{38}{subsubsection.9.5.2}%
-\contentsline {section}{\numberline {10}Mein Leben mit {\textbf {GOTT}}}{40}{section.10}%
-\contentsline {subsection}{\numberline {10.1}Mittwoch, der 27. September 2023}{40}{subsection.10.1}%
-\contentsline {subsection}{\numberline {10.2}Freitag, der 29. September 2023}{40}{subsection.10.2}%
-\contentsline {subsection}{\numberline {10.3}Dienstag, der 3. Oktober 2023}{41}{subsection.10.3}%
-\contentsline {subsection}{\numberline {10.4}Samstag, der 7. Oktober 2023}{41}{subsection.10.4}%
-\contentsline {subsection}{\numberline {10.5}Sonntag, der 8. Oktober 2023}{41}{subsection.10.5}%
-\contentsline {section}{\numberline {11}Friede sei mit dir!}{43}{section.11}%
+\contentsline {subsection}{\numberline {9.6}Weitere christliche Lieder}{39}{subsection.9.6}%
+\contentsline {section}{\numberline {10}Mein Leben mit {\textbf {GOTT}}}{41}{section.10}%
+\contentsline {subsection}{\numberline {10.1}Mittwoch, der 27. September 2023}{41}{subsection.10.1}%
+\contentsline {subsection}{\numberline {10.2}Freitag, der 29. September 2023}{41}{subsection.10.2}%
+\contentsline {subsection}{\numberline {10.3}Dienstag, der 3. Oktober 2023}{42}{subsection.10.3}%
+\contentsline {subsection}{\numberline {10.4}Samstag, der 7. Oktober 2023}{42}{subsection.10.4}%
+\contentsline {subsection}{\numberline {10.5}Sonntag, der 8. Oktober 2023}{42}{subsection.10.5}%
+\contentsline {section}{\numberline {11}Friede sei mit dir!}{44}{section.11}%
