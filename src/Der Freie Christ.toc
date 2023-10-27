@@ -100,4 +100,5 @@
 \contentsline {subsection}{\numberline {10.4}Samstag, der 7. Oktober 2023}{44}{subsection.10.4}%
 \contentsline {subsection}{\numberline {10.5}Sonntag, der 8. Oktober 2023}{44}{subsection.10.5}%
 \contentsline {subsection}{\numberline {10.6}Sonntag, der 22. Oktober 2023}{45}{subsection.10.6}%
-\contentsline {section}{\numberline {11}Friede sei mit dir!}{46}{section.11}%
+\contentsline {subsection}{\numberline {10.7}Freitag, der 27. Oktober 2023}{45}{subsection.10.7}%
+\contentsline {section}{\numberline {11}Friede sei mit dir!}{47}{section.11}%
