@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.22)  27 OCT 2023 18:35
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.22)  27 OCT 2023 18:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -433,86 +433,86 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
 [10] [11] [12{a:/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.
 enc}] [13]
-Underfull \hbox (badness 10000) in paragraph at lines 584--610
+Underfull \hbox (badness 10000) in paragraph at lines 586--612
 
  []
 
 [14] [15] [16]
-Underfull \hbox (badness 10000) in paragraph at lines 737--739
+Underfull \hbox (badness 10000) in paragraph at lines 739--741
 
  []
 
 [17] [18] [19]
-Overfull \hbox (0.21155pt too wide) in paragraph at lines 903--909
+Overfull \hbox (0.21155pt too wide) in paragraph at lines 905--911
 \T1/cmr/bx/n/10 Die drit-te Tod-sün-de ist Aus-schwei-fung, Ge-nus-sucht, Be-ge
 h-ren, Un-keusch-
  []
 
 [20] [21]
-Underfull \hbox (badness 10000) in paragraph at lines 1004--1008
+Underfull \hbox (badness 10000) in paragraph at lines 1006--1010
 
  []
 
 [22] [23]
-Underfull \hbox (badness 10000) in paragraph at lines 1158--1165
+Underfull \hbox (badness 10000) in paragraph at lines 1160--1167
 
  []
 
 
-Overfull \hbox (3.3597pt too wide) in paragraph at lines 1172--1268
+Overfull \hbox (3.3597pt too wide) in paragraph at lines 1174--1270
 \T1/cmr/m/it/10 Und jetzt kommt et-was GANZ wich-ti-ges: \T1/cmr/m/n/10 Du \T1/
 cmr/bx/n/10 darfst \T1/cmr/m/n/10 den-noch \T1/cmr/bx/n/10 GOT-TES \T1/cmr/m/it
 /10 (An-)\T1/cmr/m/n/10 Gebote
  []
 
 [24] [25]
-Overfull \hbox (6.29756pt too wide) in paragraph at lines 1309--1322
+Overfull \hbox (6.29756pt too wide) in paragraph at lines 1311--1324
 \T1/cmr/m/n/10 Was heiÿt Sab-bat-bruch? Ganz ein-fach: Am Sieb-ten Ta-ge sei-ne
 r Schöp-fung hat \T1/cmr/bx/n/10 GOTT\T1/cmr/m/n/10 ,
  []
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\char' on input line 1359.
+(hyperref)                removing `\char' on input line 1361.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\char' on input line 1359.
+(hyperref)                removing `\char' on input line 1361.
 
 [26] [27] [28] [29] [30] [31] [32] [33] [34] [35] [36] [37] [38] [39]
-Underfull \hbox (badness 10000) in paragraph at lines 2355--2359
+Underfull \hbox (badness 10000) in paragraph at lines 2357--2361
 
  []
 
 [40] [41] [42]
 LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 2
-550.
+552.
  (a:/texlive/2023/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 ) [43]
 [44] [45] [46]
-Underfull \hbox (badness 10000) in paragraph at lines 2672--2680
+Underfull \hbox (badness 10000) in paragraph at lines 2674--2682
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2687--2689
+Underfull \hbox (badness 10000) in paragraph at lines 2689--2691
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2690--2693
+Underfull \hbox (badness 10000) in paragraph at lines 2692--2695
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2702--2704
+Underfull \hbox (badness 10000) in paragraph at lines 2704--2706
 
  []
 
 File: FreeChristian.jpeg Graphic file (type jpg)
 <use FreeChristian.jpeg>
-Package pdftex.def Info: FreeChristian.jpeg  used on input line 2707.
+Package pdftex.def Info: FreeChristian.jpeg  used on input line 2709.
 (pdftex.def)             Requested size: 273.14647pt x 181.29596pt.
 [47] (./Der Freie Christ.aux)
  ***********
@@ -540,7 +540,7 @@ frm1000.pfb><a:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pf
 b><a:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb><a:/texl
 ive/2023/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb><a:/texlive/2023/t
 exmf-dist/fonts/type1/public/cm-super/sftt1000.pfb>
-Output written on "Der Freie Christ.pdf" (47 pages, 502864 bytes).
+Output written on "Der Freie Christ.pdf" (47 pages, 502899 bytes).
 PDF statistics:
  892 PDF objects out of 1000 (max. 8388607)
  810 compressed objects within 9 object streams
