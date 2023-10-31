@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.22)  29 OCT 2023 19:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.22)  31 OCT 2023 18:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -519,8 +519,15 @@ Package pdftex.def Info: FreeChristian.jpeg  used on input line 2793.
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-29>
  ***********
-Package rerunfilecheck Info: File `"Der Freie Christ".out' has not changed.
-(rerunfilecheck)             Checksum: 8D05E062A1D0E38074F602CF4E5FEA04;18942.
+
+
+Package rerunfilecheck Warning: File `"Der Freie Christ".out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `"Der Freie Christ".out':
+(rerunfilecheck)             Before: 8B5C537A680727AD2C15D61628D3F489;19046
+(rerunfilecheck)             After:  8D05E062A1D0E38074F602CF4E5FEA04;18942.
  ) 
 Here is how much of TeX's memory you used:
  10975 strings out of 474927
