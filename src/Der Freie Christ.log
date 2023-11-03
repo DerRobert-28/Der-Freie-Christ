@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.22)  1 NOV 2023 23:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.22)  3 NOV 2023 15:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -257,24 +257,24 @@ File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
 (./Der Freie Christ.aux)
 \openout1 = `"Der Freie Christ.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -341,22 +341,22 @@ File: color.cfg 2016/01/02 v1.6 sample color configuration
 Package color Info: Driver file: pdftex.def on input line 149.
 
 (a:/texlive/2023/texmf-dist/tex/latex/graphics/mathcolor.ltx))
-Package hyperref Info: Link coloring ON on input line 84.
+Package hyperref Info: Link coloring ON on input line 93.
 
 (./Der Freie Christ.out) (./Der Freie Christ.out)
 \@outlinefile=\write3
 \openout3 = `"Der Freie Christ.out"'.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 87.
+(Font)              <12> on input line 96.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 87.
+(Font)              <8> on input line 96.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 87.
-<FreeChristian.jpeg, id=422, 1606.0pt x 1065.9825pt>
+(Font)              <6> on input line 96.
+<FreeChristian.jpeg, id=426, 1606.0pt x 1065.9825pt>
 File: FreeChristian.jpeg Graphic file (type jpg)
 <use FreeChristian.jpeg>
-Package pdftex.def Info: FreeChristian.jpeg  used on input line 89.
+Package pdftex.def Info: FreeChristian.jpeg  used on input line 98.
 (pdftex.def)             Requested size: 364.1953pt x 241.72252pt.
  [1
 
@@ -375,144 +375,144 @@ LaTeX Font Info:    External font `cmex10' loaded for size
  [4] [5] [6]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\char' on input line 185.
+(hyperref)                removing `\char' on input line 194.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\char' on input line 185.
+(hyperref)                removing `\char' on input line 194.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\char' on input line 217.
+(hyperref)                removing `\char' on input line 226.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\char' on input line 217.
+(hyperref)                removing `\char' on input line 226.
 
 [7] [8]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\char' on input line 277.
+(hyperref)                removing `\char' on input line 286.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\char' on input line 277.
+(hyperref)                removing `\char' on input line 286.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\char' on input line 306.
+(hyperref)                removing `\char' on input line 315.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\char' on input line 306.
+(hyperref)                removing `\char' on input line 315.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\char' on input line 342.
+(hyperref)                removing `\char' on input line 351.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\char' on input line 342.
+(hyperref)                removing `\char' on input line 351.
 
 [9]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\char' on input line 373.
+(hyperref)                removing `\char' on input line 382.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\char' on input line 373.
+(hyperref)                removing `\char' on input line 382.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\char' on input line 404.
+(hyperref)                removing `\char' on input line 413.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\char' on input line 404.
+(hyperref)                removing `\char' on input line 413.
 
 [10] [11] [12{a:/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.
 enc}] [13]
-Underfull \hbox (badness 10000) in paragraph at lines 588--614
+Underfull \hbox (badness 10000) in paragraph at lines 617--643
 
  []
 
 [14] [15] [16]
-Underfull \hbox (badness 10000) in paragraph at lines 741--743
+Underfull \hbox (badness 10000) in paragraph at lines 770--772
 
  []
 
 [17] [18] [19]
-Overfull \hbox (0.21155pt too wide) in paragraph at lines 907--913
+Overfull \hbox (0.21155pt too wide) in paragraph at lines 936--942
 \T1/cmr/bx/n/10 Die drit-te Tod-sün-de ist Aus-schwei-fung, Ge-nus-sucht, Be-ge
 h-ren, Un-keusch-
  []
 
 [20] [21]
-Underfull \hbox (badness 10000) in paragraph at lines 1008--1012
+Underfull \hbox (badness 10000) in paragraph at lines 1037--1041
 
  []
 
 [22] [23]
-Underfull \hbox (badness 10000) in paragraph at lines 1162--1169
+Underfull \hbox (badness 10000) in paragraph at lines 1191--1198
 
  []
 
 
-Overfull \hbox (3.3597pt too wide) in paragraph at lines 1176--1272
+Overfull \hbox (3.3597pt too wide) in paragraph at lines 1205--1301
 \T1/cmr/m/it/10 Und jetzt kommt et-was GANZ wich-ti-ges: \T1/cmr/m/n/10 Du \T1/
 cmr/bx/n/10 darfst \T1/cmr/m/n/10 den-noch \T1/cmr/bx/n/10 GOT-TES \T1/cmr/m/it
 /10 (An-)\T1/cmr/m/n/10 Gebote
  []
 
 [24] [25]
-Overfull \hbox (6.29756pt too wide) in paragraph at lines 1313--1326
+Overfull \hbox (6.29756pt too wide) in paragraph at lines 1342--1355
 \T1/cmr/m/n/10 Was heiÿt Sab-bat-bruch? Ganz ein-fach: Am Sieb-ten Ta-ge sei-ne
 r Schöp-fung hat \T1/cmr/bx/n/10 GOTT\T1/cmr/m/n/10 ,
  []
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\char' on input line 1363.
+(hyperref)                removing `\char' on input line 1392.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\char' on input line 1363.
+(hyperref)                removing `\char' on input line 1392.
 
 [26] [27] [28] [29] [30] [31] [32] [33] [34] [35] [36] [37] [38] [39]
-Underfull \hbox (badness 10000) in paragraph at lines 2359--2363
+Underfull \hbox (badness 10000) in paragraph at lines 2388--2392
 
  []
 
 [40] [41] [42]
 LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 2
-554.
+583.
  (a:/texlive/2023/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 ) [43]
 [44] [45] [46]
-Underfull \hbox (badness 10000) in paragraph at lines 2760--2768
+Underfull \hbox (badness 10000) in paragraph at lines 2789--2797
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2775--2777
+Underfull \hbox (badness 10000) in paragraph at lines 2804--2806
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2778--2781
+Underfull \hbox (badness 10000) in paragraph at lines 2807--2810
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2791--2793
+Underfull \hbox (badness 10000) in paragraph at lines 2820--2822
 
  []
 
 File: FreeChristian.jpeg Graphic file (type jpg)
 <use FreeChristian.jpeg>
-Package pdftex.def Info: FreeChristian.jpeg  used on input line 2796.
+Package pdftex.def Info: FreeChristian.jpeg  used on input line 2825.
 (pdftex.def)             Requested size: 273.14647pt x 181.29596pt.
 [47] (./Der Freie Christ.aux)
  ***********
@@ -520,13 +520,13 @@ LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-29>
  ***********
 Package rerunfilecheck Info: File `"Der Freie Christ".out' has not changed.
-(rerunfilecheck)             Checksum: 8D05E062A1D0E38074F602CF4E5FEA04;18942.
+(rerunfilecheck)             Checksum: 1A611FA30E4D6EBD5A057F3FB5ACDF94;19114.
  ) 
 Here is how much of TeX's memory you used:
- 10975 strings out of 474927
- 171833 string characters out of 5763541
+ 10986 strings out of 474927
+ 171906 string characters out of 5763541
  1933785 words of memory out of 5000000
- 32206 multiletter control sequences out of 15000+600000
+ 32216 multiletter control sequences out of 15000+600000
  569691 words of font info for 58 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,7n,79p,439b,605s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -540,10 +540,10 @@ frm1000.pfb><a:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pf
 b><a:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb><a:/texl
 ive/2023/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb><a:/texlive/2023/t
 exmf-dist/fonts/type1/public/cm-super/sftt1000.pfb>
-Output written on "Der Freie Christ.pdf" (47 pages, 506008 bytes).
+Output written on "Der Freie Christ.pdf" (47 pages, 507026 bytes).
 PDF statistics:
- 897 PDF objects out of 1000 (max. 8388607)
- 815 compressed objects within 9 object streams
- 188 named destinations out of 1000 (max. 500000)
- 838 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 902 PDF objects out of 1000 (max. 8388607)
+ 820 compressed objects within 9 object streams
+ 189 named destinations out of 1000 (max. 500000)
+ 846 words of extra memory for PDF output out of 10000 (max. 10000000)
 
