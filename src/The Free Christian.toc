@@ -90,12 +90,13 @@
 \contentsline {subsection}{\numberline {9.2}{\textbf {JESUS}}, come into my life (Surrender Prayer \#1)}{36}{subsection.9.2}%
 \contentsline {subsection}{\numberline {9.3}Surrender Prayer \#2}{37}{subsection.9.3}%
 \contentsline {subsection}{\numberline {9.4}Surrender Prayer \#3}{38}{subsection.9.4}%
-\contentsline {subsection}{\numberline {9.5}The Creed of Belief}{38}{subsection.9.5}%
-\contentsline {subsection}{\numberline {9.6}Wie ein Fest nach langer Trauer}{39}{subsection.9.6}%
-\contentsline {subsubsection}{\numberline {9.6.1}Information}{39}{subsubsection.9.6.1}%
-\contentsline {subsubsection}{\numberline {9.6.2}Lyrics}{39}{subsubsection.9.6.2}%
-\contentsline {subsubsection}{\numberline {9.6.3}Translation}{40}{subsubsection.9.6.3}%
-\contentsline {subsection}{\numberline {9.7}More Christian songs}{41}{subsection.9.7}%
+\contentsline {subsection}{\numberline {9.5}Surrender Prayer \#4}{38}{subsection.9.5}%
+\contentsline {subsection}{\numberline {9.6}The Creed of Belief}{38}{subsection.9.6}%
+\contentsline {subsection}{\numberline {9.7}Wie ein Fest nach langer Trauer}{39}{subsection.9.7}%
+\contentsline {subsubsection}{\numberline {9.7.1}Information}{39}{subsubsection.9.7.1}%
+\contentsline {subsubsection}{\numberline {9.7.2}Lyrics}{39}{subsubsection.9.7.2}%
+\contentsline {subsubsection}{\numberline {9.7.3}Translation}{40}{subsubsection.9.7.3}%
+\contentsline {subsection}{\numberline {9.8}More Christian songs}{41}{subsection.9.8}%
 \contentsline {section}{\numberline {10}My life with {\textbf {GOD}}}{42}{section.10}%
 \contentsline {subsection}{\numberline {10.1}Wednesday, September 27th, 2023}{42}{subsection.10.1}%
 \contentsline {subsection}{\numberline {10.2}Friday, September 29th, 2023}{42}{subsection.10.2}%

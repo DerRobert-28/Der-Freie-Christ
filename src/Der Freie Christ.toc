@@ -89,11 +89,12 @@
 \contentsline {subsection}{\numberline {9.2}{\textbf {JESUS}}, komm in mein Leben (\"Ubergabegebet \#1)}{38}{subsection.9.2}%
 \contentsline {subsection}{\numberline {9.3}\"Ubergabegebet \#2}{38}{subsection.9.3}%
 \contentsline {subsection}{\numberline {9.4}\"Ubergabegebet \#3}{40}{subsection.9.4}%
-\contentsline {subsection}{\numberline {9.5}Das Glaubensbekenntnis}{40}{subsection.9.5}%
-\contentsline {subsection}{\numberline {9.6}Wie ein Fest nach langer Trauer}{41}{subsection.9.6}%
-\contentsline {subsubsection}{\numberline {9.6.1}Infos}{41}{subsubsection.9.6.1}%
-\contentsline {subsubsection}{\numberline {9.6.2}Text}{41}{subsubsection.9.6.2}%
-\contentsline {subsection}{\numberline {9.7}Weitere christliche Lieder}{42}{subsection.9.7}%
+\contentsline {subsection}{\numberline {9.5}\"Ubergabegebet \#4}{40}{subsection.9.5}%
+\contentsline {subsection}{\numberline {9.6}Das Glaubensbekenntnis}{40}{subsection.9.6}%
+\contentsline {subsection}{\numberline {9.7}Wie ein Fest nach langer Trauer}{41}{subsection.9.7}%
+\contentsline {subsubsection}{\numberline {9.7.1}Infos}{41}{subsubsection.9.7.1}%
+\contentsline {subsubsection}{\numberline {9.7.2}Text}{41}{subsubsection.9.7.2}%
+\contentsline {subsection}{\numberline {9.8}Weitere christliche Lieder}{42}{subsection.9.8}%
 \contentsline {section}{\numberline {10}Mein Leben mit {\textbf {GOTT}}}{43}{section.10}%
 \contentsline {subsection}{\numberline {10.1}Mittwoch, der 27. September 2023}{43}{subsection.10.1}%
 \contentsline {subsection}{\numberline {10.2}Freitag, der 29. September 2023}{43}{subsection.10.2}%
