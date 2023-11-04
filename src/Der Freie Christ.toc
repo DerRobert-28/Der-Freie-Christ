@@ -90,19 +90,20 @@
 \contentsline {subsection}{\numberline {9.3}\"Ubergabegebet \#2}{38}{subsection.9.3}%
 \contentsline {subsection}{\numberline {9.4}\"Ubergabegebet \#3}{40}{subsection.9.4}%
 \contentsline {subsection}{\numberline {9.5}\"Ubergabegebet \#4}{40}{subsection.9.5}%
-\contentsline {subsection}{\numberline {9.6}Wundergebet}{40}{subsection.9.6}%
-\contentsline {subsection}{\numberline {9.7}Das Glaubensbekenntnis}{41}{subsection.9.7}%
-\contentsline {subsection}{\numberline {9.8}Wie ein Fest nach langer Trauer}{42}{subsection.9.8}%
-\contentsline {subsubsection}{\numberline {9.8.1}Infos}{42}{subsubsection.9.8.1}%
-\contentsline {subsubsection}{\numberline {9.8.2}Text}{42}{subsubsection.9.8.2}%
-\contentsline {subsection}{\numberline {9.9}Weitere christliche Lieder}{43}{subsection.9.9}%
-\contentsline {section}{\numberline {10}Mein Leben mit {\textbf {GOTT}}}{44}{section.10}%
-\contentsline {subsection}{\numberline {10.1}Mittwoch, der 27. September 2023}{44}{subsection.10.1}%
-\contentsline {subsection}{\numberline {10.2}Freitag, der 29. September 2023}{44}{subsection.10.2}%
-\contentsline {subsection}{\numberline {10.3}Dienstag, der 3. Oktober 2023}{45}{subsection.10.3}%
-\contentsline {subsection}{\numberline {10.4}Samstag, der 7. Oktober 2023}{45}{subsection.10.4}%
-\contentsline {subsection}{\numberline {10.5}Sonntag, der 8. Oktober 2023}{45}{subsection.10.5}%
-\contentsline {subsection}{\numberline {10.6}Sonntag, der 22. Oktober 2023}{46}{subsection.10.6}%
-\contentsline {subsection}{\numberline {10.7}Freitag, der 27. Oktober 2023}{46}{subsection.10.7}%
-\contentsline {subsection}{\numberline {10.8}Sonntag, der 29. Oktober 2023}{47}{subsection.10.8}%
-\contentsline {section}{\numberline {11}Friede sei mit dir!}{48}{section.11}%
+\contentsline {subsection}{\numberline {9.6}Das Glaubensbekenntnis}{40}{subsection.9.6}%
+\contentsline {subsection}{\numberline {9.7}Wie ein Fest nach langer Trauer}{41}{subsection.9.7}%
+\contentsline {subsubsection}{\numberline {9.7.1}Infos}{41}{subsubsection.9.7.1}%
+\contentsline {subsubsection}{\numberline {9.7.2}Text}{41}{subsubsection.9.7.2}%
+\contentsline {subsection}{\numberline {9.8}Wundergebet}{42}{subsection.9.8}%
+\contentsline {subsection}{\numberline {9.9}Gelassenheitsgebet}{43}{subsection.9.9}%
+\contentsline {subsection}{\numberline {9.10}Weitere christliche Lieder}{43}{subsection.9.10}%
+\contentsline {section}{\numberline {10}Mein Leben mit {\textbf {GOTT}}}{45}{section.10}%
+\contentsline {subsection}{\numberline {10.1}Mittwoch, der 27. September 2023}{45}{subsection.10.1}%
+\contentsline {subsection}{\numberline {10.2}Freitag, der 29. September 2023}{45}{subsection.10.2}%
+\contentsline {subsection}{\numberline {10.3}Dienstag, der 3. Oktober 2023}{46}{subsection.10.3}%
+\contentsline {subsection}{\numberline {10.4}Samstag, der 7. Oktober 2023}{46}{subsection.10.4}%
+\contentsline {subsection}{\numberline {10.5}Sonntag, der 8. Oktober 2023}{46}{subsection.10.5}%
+\contentsline {subsection}{\numberline {10.6}Sonntag, der 22. Oktober 2023}{47}{subsection.10.6}%
+\contentsline {subsection}{\numberline {10.7}Freitag, der 27. Oktober 2023}{47}{subsection.10.7}%
+\contentsline {subsection}{\numberline {10.8}Sonntag, der 29. Oktober 2023}{48}{subsection.10.8}%
+\contentsline {section}{\numberline {11}Friede sei mit dir!}{49}{section.11}%
