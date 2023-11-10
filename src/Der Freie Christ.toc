@@ -1,109 +1,110 @@
 \babel@toc {ngerman}{}\relax 
-\contentsline {section}{\numberline {1}Vorwort}{5}{section.1}%
-\contentsline {subsection}{\numberline {1.1}Verwendungshinweise}{5}{subsection.1.1}%
-\contentsline {subsection}{\numberline {1.2}Danksagung}{5}{subsection.1.2}%
-\contentsline {subsection}{\numberline {1.3}Ein paar Worte zu mir}{6}{subsection.1.3}%
-\contentsline {section}{\numberline {2}Was macht einen \char "22{Freien Christen}\char "22 aus?}{7}{section.2}%
-\contentsline {subsection}{\numberline {2.1}Keine Kirchengemeinde}{7}{subsection.2.1}%
-\contentsline {subsection}{\numberline {2.2}Der wahre Bund}{7}{subsection.2.2}%
-\contentsline {subsection}{\numberline {2.3}Die Bibel als \char "22{Werkzeug}\char "22 }{7}{subsection.2.3}%
-\contentsline {subsection}{\numberline {2.4}Glaube und Wissenschaft}{7}{subsection.2.4}%
-\contentsline {subsection}{\numberline {2.5}Was wei{\ss } ich \"uber {\textbf {GOTT}}?}{8}{subsection.2.5}%
-\contentsline {section}{\numberline {3}Glaubst du (nicht) an {\textbf {GOTT}}?}{9}{section.3}%
-\contentsline {subsection}{\numberline {3.1}\char "22{Ich bin Jude und glaube nicht an {\textbf {JESUS}} als {\textbf {ERL\"OSER}}.}\char "22 }{9}{subsection.3.1}%
-\contentsline {subsection}{\numberline {3.2}\char "22{Ich bin Muslim und glaube an Allah.}\char "22 }{9}{subsection.3.2}%
-\contentsline {subsection}{\numberline {3.3}\char "22{Ich geh\"ore einer anderen Religion an.}\char "22 }{10}{subsection.3.3}%
-\contentsline {subsection}{\numberline {3.4}\char "22{Ich glaube an keinen Gott, oder bin Agnostiker.}\char "22 }{10}{subsection.3.4}%
-\contentsline {subsection}{\numberline {3.5}\char "22{Ich will (wieder) an {\textbf {GOTT}} glauben.}\char "22 }{11}{subsection.3.5}%
-\contentsline {subsection}{\numberline {3.6}Zusammenfassung}{11}{subsection.3.6}%
-\contentsline {section}{\numberline {4}Wer und wie ist {\textbf {GOTT}}?}{12}{section.4}%
-\contentsline {subsection}{\numberline {4.1}{\textbf {GOTT}} ist ...}{12}{subsection.4.1}%
-\contentsline {subsection}{\numberline {4.2}Besondere Bibelstellen}{12}{subsection.4.2}%
-\contentsline {section}{\numberline {5}Die Zehn Gebote}{14}{section.5}%
-\contentsline {subsection}{\numberline {5.1}Das Oberste Angebot}{14}{subsection.5.1}%
-\contentsline {subsubsection}{\numberline {5.1.1}Das Erste Angebot}{14}{subsubsection.5.1.1}%
-\contentsline {subsubsection}{\numberline {5.1.2}Das Zweite Angebot}{14}{subsubsection.5.1.2}%
-\contentsline {subsubsection}{\numberline {5.1.3}Das Dritte Angebot}{14}{subsubsection.5.1.3}%
-\contentsline {subsubsection}{\numberline {5.1.4}Das Vierte Angebot}{15}{subsubsection.5.1.4}%
-\contentsline {subsubsection}{\numberline {5.1.5}Das F\"unfte Angebot}{15}{subsubsection.5.1.5}%
-\contentsline {subsubsection}{\numberline {5.1.6}Das Sechste Angebot}{15}{subsubsection.5.1.6}%
-\contentsline {subsubsection}{\numberline {5.1.7}Das Siebte Angebot}{15}{subsubsection.5.1.7}%
-\contentsline {subsubsection}{\numberline {5.1.8}Das Achte Angebot}{15}{subsubsection.5.1.8}%
-\contentsline {subsubsection}{\numberline {5.1.9}Das Neunte Angebot}{15}{subsubsection.5.1.9}%
-\contentsline {subsubsection}{\numberline {5.1.10}Das Zehnte Angebot}{16}{subsubsection.5.1.10}%
-\contentsline {subsection}{\numberline {5.2}Gegen\"uberstellung}{16}{subsection.5.2}%
-\contentsline {subsection}{\numberline {5.3}Zusammenfassung}{18}{subsection.5.3}%
-\contentsline {section}{\numberline {6}Tugenden und (Tod-)S\"unden}{19}{section.6}%
-\contentsline {subsection}{\numberline {6.1}Die Sieben Tugenden}{19}{subsection.6.1}%
-\contentsline {subsubsection}{\numberline {6.1.1}Die Erste Tugend}{19}{subsubsection.6.1.1}%
-\contentsline {subsubsection}{\numberline {6.1.2}Die Zweite Tugend}{19}{subsubsection.6.1.2}%
-\contentsline {subsubsection}{\numberline {6.1.3}Die Dritte Tugend}{19}{subsubsection.6.1.3}%
-\contentsline {subsubsection}{\numberline {6.1.4}Die Vierte Tugend}{19}{subsubsection.6.1.4}%
-\contentsline {subsubsection}{\numberline {6.1.5}Die F\"unfte Tugend}{20}{subsubsection.6.1.5}%
-\contentsline {subsubsection}{\numberline {6.1.6}Die Sechste Tugend}{20}{subsubsection.6.1.6}%
-\contentsline {subsubsection}{\numberline {6.1.7}Die Siebte Tugend}{20}{subsubsection.6.1.7}%
-\contentsline {subsection}{\numberline {6.2}Die Sieben Tods\"unden}{20}{subsection.6.2}%
-\contentsline {subsubsection}{\numberline {6.2.1}Die Erste Tods\"unde}{20}{subsubsection.6.2.1}%
-\contentsline {subsubsection}{\numberline {6.2.2}Die Zweite Tods\"unde}{21}{subsubsection.6.2.2}%
-\contentsline {subsubsection}{\numberline {6.2.3}Die Dritte Tods\"unde}{21}{subsubsection.6.2.3}%
-\contentsline {subsubsection}{\numberline {6.2.4}Die Vierte Tods\"unde}{21}{subsubsection.6.2.4}%
-\contentsline {subsubsection}{\numberline {6.2.5}Die F\"unfte Tods\"unde}{21}{subsubsection.6.2.5}%
-\contentsline {subsubsection}{\numberline {6.2.6}Die Sechste Tods\"unde}{22}{subsubsection.6.2.6}%
-\contentsline {subsubsection}{\numberline {6.2.7}Die Siebte Tods\"unde}{22}{subsubsection.6.2.7}%
-\contentsline {subsection}{\numberline {6.3}Gegen\"uberstellung}{22}{subsection.6.3}%
-\contentsline {section}{\numberline {7}Komme ich in den {\textbf {HIMMEL}}?}{23}{section.7}%
-\contentsline {subsection}{\numberline {7.1}Ganz allgemein gesagt}{23}{subsection.7.1}%
-\contentsline {subsection}{\numberline {7.2}Wir sind alle S\"under}{23}{subsection.7.2}%
-\contentsline {subsection}{\numberline {7.3}Was kann ich tun?}{26}{subsection.7.3}%
-\contentsline {subsection}{\numberline {7.4}Zusammenfassung}{27}{subsection.7.4}%
-\contentsline {section}{\numberline {8}Verschiedene S\"unden genauer betrachtet}{28}{section.8}%
-\contentsline {subsection}{\numberline {8.1}Vom Sabbatbruch}{28}{subsection.8.1}%
-\contentsline {subsubsection}{\numberline {8.1.1}Was ist mit anderen Feiertagen?}{28}{subsubsection.8.1.1}%
-\contentsline {subsubsection}{\numberline {8.1.2}\char "22{In meiner Branche arbeite ich auch Sonntags.}\char "22 }{29}{subsubsection.8.1.2}%
-\contentsline {subsubsection}{\numberline {8.1.3}Was ist mit Bereitschaftsdienst?}{29}{subsubsection.8.1.3}%
-\contentsline {subsubsection}{\numberline {8.1.4}Was gilt nun als Arbeit?}{30}{subsubsection.8.1.4}%
-\contentsline {subsection}{\numberline {8.2}Vom T\"oten}{30}{subsection.8.2}%
-\contentsline {subsubsection}{\numberline {8.2.1}T\"oten von Mitmenschen}{30}{subsubsection.8.2.1}%
-\contentsline {subsubsection}{\numberline {8.2.2}Ein Spezialfall}{31}{subsubsection.8.2.2}%
-\contentsline {subsubsection}{\numberline {8.2.3}Das Trolley-Problem}{32}{subsubsection.8.2.3}%
-\contentsline {subsubsection}{\numberline {8.2.4}Andere Formen des aktiven T\"otens}{32}{subsubsection.8.2.4}%
-\contentsline {subsubsection}{\numberline {8.2.5}Passives T\"oten}{33}{subsubsection.8.2.5}%
-\contentsline {subsubsection}{\numberline {8.2.6}Weitere T\"otungsarten}{33}{subsubsection.8.2.6}%
-\contentsline {subsubsection}{\numberline {8.2.7}Zusammenfassung}{34}{subsubsection.8.2.7}%
-\contentsline {subsection}{\numberline {8.3}Vom Ehebrechen}{34}{subsection.8.3}%
-\contentsline {subsubsection}{\numberline {8.3.1}Bist du in einer Beziehung?}{34}{subsubsection.8.3.1}%
-\contentsline {subsubsection}{\numberline {8.3.2}Wie steht es um deine Beziehung?}{34}{subsubsection.8.3.2}%
-\contentsline {subsubsection}{\numberline {8.3.3}Warum bist du geblieben?}{35}{subsubsection.8.3.3}%
-\contentsline {subsubsection}{\numberline {8.3.4}Wie steht es nun mit Ehebruch?}{35}{subsubsection.8.3.4}%
-\contentsline {subsubsection}{\numberline {8.3.5}Ein besonderes Erwachsenenthema}{36}{subsubsection.8.3.5}%
-\contentsline {subsubsection}{\numberline {8.3.6}Ist Selbstbefriedigung Ehebruch?}{37}{subsubsection.8.3.6}%
-\contentsline {subsubsection}{\numberline {8.3.7}Zusammenfassung}{37}{subsubsection.8.3.7}%
-\contentsline {subsection}{\numberline {8.4}Vom Fluchen und Schw\"oren}{38}{subsection.8.4}%
-\contentsline {subsubsection}{\numberline {8.4.1}(Be-)Schw\"oren}{38}{subsubsection.8.4.1}%
-\contentsline {subsubsection}{\numberline {8.4.2}(Ver-)Fluchen}{39}{subsubsection.8.4.2}%
-\contentsline {subsubsection}{\numberline {8.4.3}Zusammenfassung}{39}{subsubsection.8.4.3}%
-\contentsline {section}{\numberline {9}Gebete und Loblieder}{41}{section.9}%
-\contentsline {subsection}{\numberline {9.1}Das {\textbf {VATER}}-Unser}{41}{subsection.9.1}%
-\contentsline {subsubsection}{\numberline {9.1.1}Wenn du alleine betest}{41}{subsubsection.9.1.1}%
-\contentsline {subsubsection}{\numberline {9.1.2}Wenn ihr in der Gruppe betet}{41}{subsubsection.9.1.2}%
-\contentsline {subsection}{\numberline {9.2}{\textbf {JESUS}}, komm in mein Leben (\"Ubergabegebet \#1)}{42}{subsection.9.2}%
-\contentsline {subsection}{\numberline {9.3}\"Ubergabegebet \#2}{42}{subsection.9.3}%
-\contentsline {subsection}{\numberline {9.4}\"Ubergabegebet \#3}{44}{subsection.9.4}%
-\contentsline {subsection}{\numberline {9.5}\"Ubergabegebet \#4}{44}{subsection.9.5}%
-\contentsline {subsection}{\numberline {9.6}Das Glaubensbekenntnis}{45}{subsection.9.6}%
-\contentsline {subsection}{\numberline {9.7}Wie ein Fest nach langer Trauer}{45}{subsection.9.7}%
-\contentsline {subsubsection}{\numberline {9.7.1}Infos}{45}{subsubsection.9.7.1}%
-\contentsline {subsubsection}{\numberline {9.7.2}Text}{45}{subsubsection.9.7.2}%
-\contentsline {subsection}{\numberline {9.8}Wundergebet}{46}{subsection.9.8}%
-\contentsline {subsection}{\numberline {9.9}Gelassenheitsgebet}{47}{subsection.9.9}%
-\contentsline {subsection}{\numberline {9.10}Weitere christliche Lieder}{48}{subsection.9.10}%
-\contentsline {section}{\numberline {10}Mein Leben mit {\textbf {GOTT}}}{49}{section.10}%
-\contentsline {subsection}{\numberline {10.1}Mittwoch, der 27. September 2023}{49}{subsection.10.1}%
-\contentsline {subsection}{\numberline {10.2}Freitag, der 29. September 2023}{49}{subsection.10.2}%
-\contentsline {subsection}{\numberline {10.3}Dienstag, der 3. Oktober 2023}{50}{subsection.10.3}%
-\contentsline {subsection}{\numberline {10.4}Samstag, der 7. Oktober 2023}{50}{subsection.10.4}%
-\contentsline {subsection}{\numberline {10.5}Sonntag, der 8. Oktober 2023}{51}{subsection.10.5}%
-\contentsline {subsection}{\numberline {10.6}Sonntag, der 22. Oktober 2023}{51}{subsection.10.6}%
-\contentsline {subsection}{\numberline {10.7}Freitag, der 27. Oktober 2023}{52}{subsection.10.7}%
-\contentsline {subsection}{\numberline {10.8}Sonntag, der 29. Oktober 2023}{52}{subsection.10.8}%
-\contentsline {section}{\numberline {11}Friede sei mit dir!}{54}{section.11}%
+\contentsline {section}{\numberline {1}Vorwort}{6}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Ein paar Worte zu mir}{6}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Verwendungshinweise}{7}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Danksagung}{8}{subsection.1.3}%
+\contentsline {section}{\numberline {2}Was macht einen \char "22{Freien Christen}\char "22 aus?}{9}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Keine Kirchengemeinde}{9}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Der wahre Bund}{9}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Die Bibel als \char "22{Werkzeug}\char "22 }{9}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Glaube und Wissenschaft}{10}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}Was wei{\ss } ich \"uber {\textbf {GOTT}}?}{10}{subsection.2.5}%
+\contentsline {section}{\numberline {3}Glaubst du (nicht) an {\textbf {GOTT}}?}{11}{section.3}%
+\contentsline {subsection}{\numberline {3.1}\char "22{Ich bin Jude, und glaube nicht an {\textbf {JESUS}} als {\textbf {ERL\"OSER}}.}\char "22 }{11}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}\char "22{Ich bin Muslim und glaube an Allah.}\char "22 }{12}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}\char "22{Ich geh\"ore einer anderen Religion an.}\char "22 }{12}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}\char "22{Ich glaube an keinen Gott, oder bin Agnostiker.}\char "22 }{13}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}\char "22{Ich will (wieder) an {\textbf {GOTT}} glauben.}\char "22 }{14}{subsection.3.5}%
+\contentsline {subsection}{\numberline {3.6}Zusammenfassung}{14}{subsection.3.6}%
+\contentsline {section}{\numberline {4}Wer und wie ist {\textbf {GOTT}}?}{15}{section.4}%
+\contentsline {subsection}{\numberline {4.1}{\textbf {GOTT}} ist ...}{15}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Besondere Bibelstellen}{16}{subsection.4.2}%
+\contentsline {section}{\numberline {5}Die Zehn Gebote}{17}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Das Oberste Angebot}{17}{subsection.5.1}%
+\contentsline {subsubsection}{\numberline {5.1.1}Das Erste Angebot}{17}{subsubsection.5.1.1}%
+\contentsline {subsubsection}{\numberline {5.1.2}Das Zweite Angebot}{17}{subsubsection.5.1.2}%
+\contentsline {subsubsection}{\numberline {5.1.3}Das Dritte Angebot}{18}{subsubsection.5.1.3}%
+\contentsline {subsubsection}{\numberline {5.1.4}Das Vierte Angebot}{18}{subsubsection.5.1.4}%
+\contentsline {subsubsection}{\numberline {5.1.5}Das F\"unfte Angebot}{18}{subsubsection.5.1.5}%
+\contentsline {subsubsection}{\numberline {5.1.6}Das Sechste Angebot}{18}{subsubsection.5.1.6}%
+\contentsline {subsubsection}{\numberline {5.1.7}Das Siebte Angebot}{19}{subsubsection.5.1.7}%
+\contentsline {subsubsection}{\numberline {5.1.8}Das Achte Angebot}{19}{subsubsection.5.1.8}%
+\contentsline {subsubsection}{\numberline {5.1.9}Das Neunte Angebot}{19}{subsubsection.5.1.9}%
+\contentsline {subsubsection}{\numberline {5.1.10}Das Zehnte Angebot}{19}{subsubsection.5.1.10}%
+\contentsline {subsection}{\numberline {5.2}Gegen\"uberstellung}{20}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Zusammenfassung}{23}{subsection.5.3}%
+\contentsline {section}{\numberline {6}Tugenden und (Tod-)S\"unden}{24}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Die Sieben Tugenden}{24}{subsection.6.1}%
+\contentsline {subsubsection}{\numberline {6.1.1}Die Erste Tugend}{24}{subsubsection.6.1.1}%
+\contentsline {subsubsection}{\numberline {6.1.2}Die Zweite Tugend}{24}{subsubsection.6.1.2}%
+\contentsline {subsubsection}{\numberline {6.1.3}Die Dritte Tugend}{24}{subsubsection.6.1.3}%
+\contentsline {subsubsection}{\numberline {6.1.4}Die Vierte Tugend}{25}{subsubsection.6.1.4}%
+\contentsline {subsubsection}{\numberline {6.1.5}Die F\"unfte Tugend}{25}{subsubsection.6.1.5}%
+\contentsline {subsubsection}{\numberline {6.1.6}Die Sechste Tugend}{25}{subsubsection.6.1.6}%
+\contentsline {subsubsection}{\numberline {6.1.7}Die Siebte Tugend}{26}{subsubsection.6.1.7}%
+\contentsline {subsection}{\numberline {6.2}Die Sieben Tods\"unden}{26}{subsection.6.2}%
+\contentsline {subsubsection}{\numberline {6.2.1}Die Erste Tods\"unde}{26}{subsubsection.6.2.1}%
+\contentsline {subsubsection}{\numberline {6.2.2}Die Zweite Tods\"unde}{26}{subsubsection.6.2.2}%
+\contentsline {subsubsection}{\numberline {6.2.3}Die Dritte Tods\"unde}{27}{subsubsection.6.2.3}%
+\contentsline {subsubsection}{\numberline {6.2.4}Die Vierte Tods\"unde}{27}{subsubsection.6.2.4}%
+\contentsline {subsubsection}{\numberline {6.2.5}Die F\"unfte Tods\"unde}{27}{subsubsection.6.2.5}%
+\contentsline {subsubsection}{\numberline {6.2.6}Die Sechste Tods\"unde}{28}{subsubsection.6.2.6}%
+\contentsline {subsubsection}{\numberline {6.2.7}Die Siebte Tods\"unde}{28}{subsubsection.6.2.7}%
+\contentsline {subsection}{\numberline {6.3}Gegen\"uberstellung}{28}{subsection.6.3}%
+\contentsline {section}{\numberline {7}Komme ich in den {\textbf {HIMMEL}}?}{29}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Ganz allgemein gesagt}{29}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}Wir sind alle S\"under}{29}{subsection.7.2}%
+\contentsline {subsection}{\numberline {7.3}Was kann ich tun?}{33}{subsection.7.3}%
+\contentsline {subsection}{\numberline {7.4}Zusammenfassung}{35}{subsection.7.4}%
+\contentsline {section}{\numberline {8}Verschiedene S\"unden genauer betrachtet}{36}{section.8}%
+\contentsline {subsection}{\numberline {8.1}Vom Sabbatbruch}{36}{subsection.8.1}%
+\contentsline {subsubsection}{\numberline {8.1.1}Was ist mit anderen Feiertagen?}{36}{subsubsection.8.1.1}%
+\contentsline {subsubsection}{\numberline {8.1.2}\char "22{In meiner Branche arbeite ich auch Sonntags.}\char "22 }{37}{subsubsection.8.1.2}%
+\contentsline {subsubsection}{\numberline {8.1.3}Was ist mit Bereitschaftsdienst?}{38}{subsubsection.8.1.3}%
+\contentsline {subsubsection}{\numberline {8.1.4}Was gilt nun als Arbeit?}{38}{subsubsection.8.1.4}%
+\contentsline {subsection}{\numberline {8.2}Vom T\"oten}{39}{subsection.8.2}%
+\contentsline {subsubsection}{\numberline {8.2.1}T\"oten von Mitmenschen}{39}{subsubsection.8.2.1}%
+\contentsline {subsubsection}{\numberline {8.2.2}Ein Spezialfall}{40}{subsubsection.8.2.2}%
+\contentsline {subsubsection}{\numberline {8.2.3}Das Trolley-Problem}{41}{subsubsection.8.2.3}%
+\contentsline {subsubsection}{\numberline {8.2.4}Andere Formen des aktiven T\"otens}{42}{subsubsection.8.2.4}%
+\contentsline {subsubsection}{\numberline {8.2.5}Passives T\"oten}{43}{subsubsection.8.2.5}%
+\contentsline {subsubsection}{\numberline {8.2.6}Weitere T\"otungsarten}{44}{subsubsection.8.2.6}%
+\contentsline {subsubsection}{\numberline {8.2.7}Zusammenfassung}{44}{subsubsection.8.2.7}%
+\contentsline {subsection}{\numberline {8.3}Vom Ehebrechen}{44}{subsection.8.3}%
+\contentsline {subsubsection}{\numberline {8.3.1}Bist du in einer Beziehung?}{45}{subsubsection.8.3.1}%
+\contentsline {subsubsection}{\numberline {8.3.2}Wie steht es um deine Beziehung?}{45}{subsubsection.8.3.2}%
+\contentsline {subsubsection}{\numberline {8.3.3}Warum bist du geblieben?}{45}{subsubsection.8.3.3}%
+\contentsline {subsubsection}{\numberline {8.3.4}Wie steht es nun mit Ehebruch?}{46}{subsubsection.8.3.4}%
+\contentsline {subsubsection}{\numberline {8.3.5}Ein besonderes Erwachsenenthema}{48}{subsubsection.8.3.5}%
+\contentsline {subsubsection}{\numberline {8.3.6}Ist Selbstbefriedigung Ehebruch?}{48}{subsubsection.8.3.6}%
+\contentsline {subsubsection}{\numberline {8.3.7}Zusammenfassung}{49}{subsubsection.8.3.7}%
+\contentsline {subsection}{\numberline {8.4}Vom Fluchen und Schw\"oren}{50}{subsection.8.4}%
+\contentsline {subsubsection}{\numberline {8.4.1}(Be-)Schw\"oren}{50}{subsubsection.8.4.1}%
+\contentsline {subsubsection}{\numberline {8.4.2}(Ver-)Fluchen}{51}{subsubsection.8.4.2}%
+\contentsline {subsubsection}{\numberline {8.4.3}Zusammenfassung}{52}{subsubsection.8.4.3}%
+\contentsline {section}{\numberline {9}Gebete und Loblieder}{54}{section.9}%
+\contentsline {subsection}{\numberline {9.1}Das {\textbf {VATER}}-Unser}{54}{subsection.9.1}%
+\contentsline {subsubsection}{\numberline {9.1.1}Wenn du alleine betest}{54}{subsubsection.9.1.1}%
+\contentsline {subsubsection}{\numberline {9.1.2}Wenn ihr in der Gruppe betet}{55}{subsubsection.9.1.2}%
+\contentsline {subsection}{\numberline {9.2}{\textbf {JESUS}}, komm in mein Leben (\"Ubergabegebet \#1)}{55}{subsection.9.2}%
+\contentsline {subsection}{\numberline {9.3}\"Ubergabegebet \#2}{56}{subsection.9.3}%
+\contentsline {subsection}{\numberline {9.4}\"Ubergabegebet \#3}{57}{subsection.9.4}%
+\contentsline {subsection}{\numberline {9.5}\"Ubergabegebet \#4}{58}{subsection.9.5}%
+\contentsline {subsection}{\numberline {9.6}Das Glaubensbekenntnis}{59}{subsection.9.6}%
+\contentsline {subsection}{\numberline {9.7}Wie ein Fest nach langer Trauer}{60}{subsection.9.7}%
+\contentsline {subsubsection}{\numberline {9.7.1}Infos}{60}{subsubsection.9.7.1}%
+\contentsline {subsubsection}{\numberline {9.7.2}Text}{60}{subsubsection.9.7.2}%
+\contentsline {subsection}{\numberline {9.8}Wundergebet}{61}{subsection.9.8}%
+\contentsline {subsection}{\numberline {9.9}Gelassenheitsgebet}{62}{subsection.9.9}%
+\contentsline {subsection}{\numberline {9.10}Weitere christliche Lieder}{63}{subsection.9.10}%
+\contentsline {section}{\numberline {10}Mein Leben mit {\textbf {GOTT}}}{64}{section.10}%
+\contentsline {subsection}{\numberline {10.1}Mittwoch, der 27. September 2023}{64}{subsection.10.1}%
+\contentsline {subsection}{\numberline {10.2}Freitag, der 29. September 2023}{64}{subsection.10.2}%
+\contentsline {subsection}{\numberline {10.3}Dienstag, der 3. Oktober 2023}{65}{subsection.10.3}%
+\contentsline {subsection}{\numberline {10.4}Samstag, der 7. Oktober 2023}{66}{subsection.10.4}%
+\contentsline {subsection}{\numberline {10.5}Sonntag, der 8. Oktober 2023}{66}{subsection.10.5}%
+\contentsline {subsection}{\numberline {10.6}Sonntag, der 22. Oktober 2023}{67}{subsection.10.6}%
+\contentsline {subsection}{\numberline {10.7}Freitag, der 27. Oktober 2023}{68}{subsection.10.7}%
+\contentsline {subsection}{\numberline {10.8}Sonntag, der 29. Oktober 2023}{68}{subsection.10.8}%
+\contentsline {subsection}{\numberline {10.9}Freitag, der 10. November 2023}{70}{subsection.10.9}%
+\contentsline {section}{\numberline {11}Friede sei mit dir!}{71}{section.11}%

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.22)  10 NOV 2023 21:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.22)  11 NOV 2023 00:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -8,8 +8,8 @@ LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-29>
 (a:/texlive/2023/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
-(a:/texlive/2023/texmf-dist/tex/latex/base/size10.clo
-File: size10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+(a:/texlive/2023/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count185
 \c@section=\count186
@@ -249,32 +249,40 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip51
 )
+(a:/texlive/2023/texmf-dist/tex/latex/wrapfig/wrapfig.sty
+\wrapoverhang=\dimen157
+\WF@size=\dimen158
+\c@WF@wrappedlines=\count278
+\WF@box=\box52
+\WF@everypar=\toks23
+Package: wrapfig 2003/01/31  v 3.6
+)
 (a:/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count278
-\l__pdf_internal_box=\box52
+\l__color_backend_stack_int=\count279
+\l__pdf_internal_box=\box53
 )
 (./The Free Christian.aux)
 \openout1 = `"The Free Christian.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -295,12 +303,12 @@ LaTeX Font Info:    ... okay on input line 63.
 * \topmargin=-52.36449pt
 * \headheight=12.0pt
 * \headsep=25.0pt
-* \topskip=10.0pt
+* \topskip=12.0pt
 * \footskip=30.0pt
-* \marginparwidth=3.0pt
-* \marginparsep=11.0pt
+* \marginparwidth=4.0pt
+* \marginparsep=10.0pt
 * \columnsep=10.0pt
-* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -312,17 +320,17 @@ LaTeX Font Info:    ... okay on input line 63.
 
 (a:/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count279
-\scratchdimen=\dimen157
-\scratchbox=\box53
-\nofMPsegments=\count280
-\nofMParguments=\count281
-\everyMPshowfont=\toks23
-\MPscratchCnt=\count282
-\MPscratchDim=\dimen158
-\MPnumerator=\count283
-\makeMPintoPDFobject=\count284
-\everyMPtoPDFconversion=\toks24
+\scratchcounter=\count280
+\scratchdimen=\dimen159
+\scratchbox=\box54
+\nofMPsegments=\count281
+\nofMParguments=\count282
+\everyMPshowfont=\toks24
+\MPscratchCnt=\count283
+\MPscratchDim=\dimen160
+\MPnumerator=\count284
+\makeMPintoPDFobject=\count285
+\everyMPtoPDFconversion=\toks25
 ) (a:/texlive/2023/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -341,22 +349,20 @@ File: color.cfg 2016/01/02 v1.6 sample color configuration
 Package color Info: Driver file: pdftex.def on input line 149.
 
 (a:/texlive/2023/texmf-dist/tex/latex/graphics/mathcolor.ltx))
-Package hyperref Info: Link coloring ON on input line 63.
+Package hyperref Info: Link coloring ON on input line 62.
 
 (./The Free Christian.out) (./The Free Christian.out)
 \@outlinefile=\write3
 \openout3 = `"The Free Christian.out"'.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 66.
+(Font)              <14.4> on input line 65.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 66.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 66.
+(Font)              <7> on input line 65.
 <FreeChristian.jpeg, id=446, 1606.0pt x 1065.9825pt>
 File: FreeChristian.jpeg Graphic file (type jpg)
 <use FreeChristian.jpeg>
-Package pdftex.def Info: FreeChristian.jpeg  used on input line 68.
+Package pdftex.def Info: FreeChristian.jpeg  used on input line 67.
 (pdftex.def)             Requested size: 307.28978pt x 203.95389pt.
  [1
 
@@ -364,175 +370,346 @@ Package pdftex.def Info: FreeChristian.jpeg  used on input line 68.
 texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc} <./FreeChristian.jpeg>] (.
 /The Free Christian.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 3.
+(Font)              <12> on input line 3.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 3.
-[2] [3])
+(Font)              <8> on input line 3.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 3.
+[2] [3] [4])
 \tf@toc=\write4
 \openout4 = `"The Free Christian.toc"'.
 
- [4] [5] [6] [7]
+ [5]
+Underfull \hbox (badness 10000) in paragraph at lines 77--99
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--99
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--99
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--99
+
+ []
+
+
+Overfull \hbox (0.82811pt too wide) in paragraph at lines 77--99
+\T1/cmr/m/n/12 You can read more about me in chap-ter "[][]My life with \T1/cmr
+/bx/n/12 GOD[][]\T1/cmr/m/n/12 ". 
+ []
+
+[6]
+Underfull \hbox (badness 10000) in paragraph at lines 102--143
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 102--143
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 102--143
+
+ []
+
+[7]
+Underfull \hbox (badness 10000) in paragraph at lines 146--180
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 146--180
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 146--180
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 146--180
+
+ []
+
+[8]
+Overfull \hbox (5.61131pt too wide) in paragraph at lines 184--184
+[]\T1/cmr/bx/n/17.28 What makes up a "Free Chris-tian"? 
+ []
+
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\char' on input line 158.
+(hyperref)                removing `\char' on input line 184.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\char' on input line 158.
+(hyperref)                removing `\char' on input line 184.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\char' on input line 190.
+(hyperref)                removing `\char' on input line 213.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\char' on input line 190.
-
-[8] [9]
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\char' on input line 246.
+(hyperref)                removing `\char' on input line 213.
 
 
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\char' on input line 246.
+Underfull \hbox (badness 10000) in paragraph at lines 228--247
+
+ []
 
 
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\char' on input line 270.
+Underfull \hbox (badness 10000) in paragraph at lines 228--247
+
+ []
+
+[9]
+Underfull \hbox (badness 10000) in paragraph at lines 249--265
+
+ []
 
 
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\char' on input line 270.
+Underfull \hbox (badness 10000) in paragraph at lines 249--265
 
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\char' on input line 298.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\char' on input line 298.
+ []
 
 [10]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\char' on input line 325.
+(hyperref)                removing `\char' on input line 277.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\char' on input line 325.
+(hyperref)                removing `\char' on input line 277.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 278--306
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 278--306
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 278--306
+
+ []
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\char' on input line 355.
+(hyperref)                removing `\char' on input line 307.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\char' on input line 355.
+(hyperref)                removing `\char' on input line 307.
 
-[11] [12] [13{a:/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.
-enc}] [14] [15]
-Underfull \hbox (badness 10000) in paragraph at lines 562--588
-
- []
-
-[16] [17]
-Underfull \hbox (badness 10000) in paragraph at lines 710--712
-
- []
-
-[18] [19] [20]
-Overfull \hbox (1.82362pt too wide) in paragraph at lines 898--905
-\T1/cmr/bx/n/10 The fifth cap-i-tal sin is ex-cess, glut-tony, im-mod-er-a-tion
-, overeat-
- []
-
-[21] [22]
-Underfull \hbox (badness 10000) in paragraph at lines 960--964
-
- []
-
-[23] [24]
-Underfull \hbox (badness 10000) in paragraph at lines 1106--1111
-
- []
-
-
-Overfull \hbox (0.86179pt too wide) in paragraph at lines 1118--1207
-\T1/cmr/m/it/10 And now, the fol-low-ing is VERY im-por-tant: \T1/cmr/m/n/10 Yo
-u \T1/cmr/bx/n/10 may \T1/cmr/m/n/10 still keep \T1/cmr/bx/n/10 GOD's
- []
-
-[25] [26] [27] [28]
+[11]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\char' on input line 1298.
+(hyperref)                removing `\char' on input line 335.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\char' on input line 1298.
+(hyperref)                removing `\char' on input line 335.
 
 
-Overfull \hbox (5.13283pt too wide) in paragraph at lines 1364--1375
-\T1/cmr/m/n/10 Here, I would like to go into ac-tual, phys-i-cal killing, so no
-t into metaphor-
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\char' on input line 362.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\char' on input line 362.
+
+[12]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\char' on input line 392.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\char' on input line 392.
+
+[13] [14]
+Overfull \hbox (4.5126pt too wide) in paragraph at lines 421--444
+\T1/cmr/m/n/12 and gen-eral des-ig-na-tions, and how \T1/cmr/bx/n/12 HE \T1/cmr
+/m/n/12 man-i-fests \T1/cmr/bx/n/12 HIM-SELF\T1/cmr/m/n/12 .
  []
 
-[29] [30] [31] [32] [33] [34] [35] [36] [37] [38] [39] [40] [41]
-Underfull \hbox (badness 10000) in paragraph at lines 2223--2227
+
+Overfull \hbox (8.44154pt too wide) in paragraph at lines 421--444
+\T1/cmr/m/n/12 Of course, this also in-cludes \T1/cmr/bx/n/12 JE-SUS \T1/cmr/m/
+n/12 and the \T1/cmr/bx/n/12 HOLY SPIRIT\T1/cmr/m/n/12 .
+ []
+
+[15{a:/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
+[16]
+Overfull \hbox (3.45937pt too wide) in paragraph at lines 494--500
+\T1/cmr/m/n/12 The High-est Of-fer is: I will love and praise \T1/cmr/bx/n/12 G
+OD\T1/cmr/m/n/12 , the \T1/cmr/bx/n/12 LORD\T1/cmr/m/n/12 ,
+ []
+
+[17] [18]
+Overfull \hbox (6.67198pt too wide) in paragraph at lines 599--625
+\T1/cmr/m/n/12 broad-est sense. For ex-am-ple the first com-mand-ment is: "Thou
 
  []
 
-[42] [43] [44] [45] [46]
+
+Underfull \hbox (badness 10000) in paragraph at lines 599--625
+
+ []
+
+[19] [20] [21]
+Underfull \hbox (badness 10000) in paragraph at lines 747--749
+
+ []
+
+[22] [23] [24] [25] [26] [27] [28]
+Underfull \hbox (badness 10000) in paragraph at lines 997--1001
+
+ []
+
+
+Overfull \hbox (1.46678pt too wide) in paragraph at lines 1017--1021
+[]\T1/cmr/m/n/12 Have you never, out of de-spair or other rea-sons, thought
+ []
+
+[29]
+Overfull \hbox (28.35881pt too wide) in paragraph at lines 1064--1075
+\T1/cmr/m/n/12 son, daugh-ter or stu-dent, be-cause he (or she) was "naughty"?
+ []
+
+[30]
+Overfull \hbox (0.9447pt too wide) in paragraph at lines 1075--1078
+[]\T1/cmr/m/n/12 Have you ever been jeal-ous, be-cause some-one had some-
+ []
+
+[31]
+Underfull \hbox (badness 10000) in paragraph at lines 1143--1148
+
+ []
+
+[32] [33] [34] [35]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\char' on input line 1335.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\char' on input line 1335.
+
+[36] [37] [38]
+Overfull \hbox (3.80925pt too wide) in paragraph at lines 1523--1541
+\T1/cmr/m/n/12 Another sce-nario is the so-called "[][]Trol-ley prob-lem[][]", 
+a thought
+ []
+
+
+Overfull \hbox (7.7467pt too wide) in paragraph at lines 1523--1541
+\T1/cmr/m/n/12 un-aware of the whole sit-u-a-tion. And by ad-just-ing the switc
+hes,
+ []
+
+[39] [40] [41] [42] [43] [44]
+Overfull \hbox (8.25809pt too wide) in paragraph at lines 1827--1832
+\T1/cmr/m/n/12 com-mit adul-tery, and who-ever mar-ries a di-vorced woman
+ []
+
+[45] [46] [47] [48] [49] [50]
+Overfull \hbox (4.19536pt too wide) in paragraph at lines 2054--2057
+\T1/cmr/m/n/12 In this chap-ter I would like to of-fer you some beau-ti-ful pra
+yers,
+ []
+
+[51] [52] [53] [54]
+Overfull \hbox (9.29063pt too wide) in paragraph at lines 2233--2237
+[]\T1/cmr/m/n/12 Come into my life and give my \T1/cmr/bx/n/12 YOUR HOLY SPIRIT
+\T1/cmr/m/n/12 . 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2260--2264
+
+ []
+
+[55] [56] [57] [58] [59] [60] [61]
 LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 2
-496.
- (a:/texlive/2023/texmf-dist/tex/latex/base/t1cmtt.fd
+533.
+
+(a:/texlive/2023/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
-)
-[47] [48] [49] [50] [51]
-Underfull \hbox (badness 10000) in paragraph at lines 2702--2711
+) [62]
+Overfull \hbox (18.69316pt too wide) in paragraph at lines 2536--2569
+\T1/cmr/m/n/12 was, among other things, over-tired, and tor-mented by headaches
+.
+ []
+
+[63] [64] [65] [66] [67] [68]
+Underfull \hbox (badness 10000) in paragraph at lines 2750--2754
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2718--2720
+Underfull \hbox (badness 10000) in paragraph at lines 2761--2763
 
  []
 
 File: FreeChristian.jpeg Graphic file (type jpg)
 <use FreeChristian.jpeg>
-Package pdftex.def Info: FreeChristian.jpeg  used on input line 2723.
-(pdftex.def)             Requested size: 230.46733pt x 152.96135pt.
-[52] (./The Free Christian.aux)
+Package pdftex.def Info: FreeChristian.jpeg  used on input line 2767.
+(pdftex.def)             Requested size: 307.28978pt x 203.95389pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 2770--2778
+
+ []
+
+[69] (./The Free Christian.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-29>
  ***********
-Package rerunfilecheck Info: File `"The Free Christian".out' has not changed.
-(rerunfilecheck)             Checksum: 5753854B0B7E21C2F71AC6CC841CEF2B;19290.
+
+
+Package rerunfilecheck Warning: File `"The Free Christian".out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `"The Free Christian".out':
+(rerunfilecheck)             Before: 14857E35765F8E91E6EE10AB365DECCE;19295
+(rerunfilecheck)             After:  FE5FB5E223CAA6A9B8A25547CEC9C5FC;19500.
  ) 
 Here is how much of TeX's memory you used:
- 10899 strings out of 474927
- 170931 string characters out of 5763541
- 1933785 words of memory out of 5000000
- 32122 multiletter control sequences out of 15000+600000
- 569691 words of font info for 58 fonts, out of 8000000 for 9000
+ 10997 strings out of 474927
+ 172296 string characters out of 5763541
+ 1931785 words of memory out of 5000000
+ 32198 multiletter control sequences out of 15000+600000
+ 570616 words of font info for 61 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,6n,79p,439b,579s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,6n,79p,444b,579s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <a:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><a:/tex
-live/2023/texmf-dist/fonts/type1/public/cm-super/sfbi1000.pfb><a:/texlive/2023/
-texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb><a:/texlive/2023/texmf-dist
-/fonts/type1/public/cm-super/sfbx1200.pfb><a:/texlive/2023/texmf-dist/fonts/typ
-e1/public/cm-super/sfbx1440.pfb><a:/texlive/2023/texmf-dist/fonts/type1/public/
-cm-super/sfbx1728.pfb><a:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/s
-frm1000.pfb><a:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pf
-b><a:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb><a:/texl
-ive/2023/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb><a:/texlive/2023/t
-exmf-dist/fonts/type1/public/cm-super/sftt1000.pfb>
-Output written on "The Free Christian.pdf" (52 pages, 501462 bytes).
+live/2023/texmf-dist/fonts/type1/public/cm-super/sfbi1200.pfb><a:/texlive/2023/
+texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb><a:/texlive/2023/texmf-dist
+/fonts/type1/public/cm-super/sfbx1440.pfb><a:/texlive/2023/texmf-dist/fonts/typ
+e1/public/cm-super/sfbx1728.pfb><a:/texlive/2023/texmf-dist/fonts/type1/public/
+cm-super/sfbx2074.pfb><a:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/s
+frm1200.pfb><a:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pf
+b><a:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb><a:/texl
+ive/2023/texmf-dist/fonts/type1/public/cm-super/sfti1440.pfb><a:/texlive/2023/t
+exmf-dist/fonts/type1/public/cm-super/sftt1200.pfb>
+Output written on "The Free Christian.pdf" (69 pages, 503541 bytes).
 PDF statistics:
- 948 PDF objects out of 1000 (max. 8388607)
- 861 compressed objects within 9 object streams
- 199 named destinations out of 1000 (max. 500000)
+ 1032 PDF objects out of 1200 (max. 8388607)
+ 927 compressed objects within 10 object streams
+ 217 named destinations out of 1000 (max. 500000)
  886 words of extra memory for PDF output out of 10000 (max. 10000000)
 
