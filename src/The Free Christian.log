@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.22)  7 NOV 2023 23:18
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.22)  10 NOV 2023 21:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -284,14 +284,14 @@ LaTeX Font Info:    ... okay on input line 63.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(28.45274pt, 364.1953pt, 28.45274pt)
+* h-part:(L,W,R)=(56.9055pt, 307.28978pt, 56.9055pt)
 * v-part:(T,H,B)=(56.9055pt, 483.69687pt, 56.9055pt)
 * \paperwidth=421.10078pt
 * \paperheight=597.50787pt
-* \textwidth=364.1953pt
+* \textwidth=307.28978pt
 * \textheight=483.69687pt
-* \oddsidemargin=-43.81725pt
-* \evensidemargin=-43.81725pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
 * \topmargin=-52.36449pt
 * \headheight=12.0pt
 * \headsep=25.0pt
@@ -357,7 +357,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 File: FreeChristian.jpeg Graphic file (type jpg)
 <use FreeChristian.jpeg>
 Package pdftex.def Info: FreeChristian.jpeg  used on input line 68.
-(pdftex.def)             Requested size: 364.1953pt x 241.72252pt.
+(pdftex.def)             Requested size: 307.28978pt x 203.95389pt.
  [1
 
 {a:/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{a:/texlive/2023/
@@ -430,28 +430,40 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\char' on input line 355.
 
-[11] [12{a:/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
-[13]
+[11] [12] [13{a:/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.
+enc}] [14] [15]
 Underfull \hbox (badness 10000) in paragraph at lines 562--588
 
  []
 
-[14] [15]
+[16] [17]
 Underfull \hbox (badness 10000) in paragraph at lines 710--712
 
  []
 
-[16] [17] [18] [19] [20] [21]
+[18] [19] [20]
+Overfull \hbox (1.82362pt too wide) in paragraph at lines 898--905
+\T1/cmr/bx/n/10 The fifth cap-i-tal sin is ex-cess, glut-tony, im-mod-er-a-tion
+, overeat-
+ []
+
+[21] [22]
 Underfull \hbox (badness 10000) in paragraph at lines 960--964
 
  []
 
-[22] [23]
+[23] [24]
 Underfull \hbox (badness 10000) in paragraph at lines 1106--1111
 
  []
 
-[24] [25]
+
+Overfull \hbox (0.86179pt too wide) in paragraph at lines 1118--1207
+\T1/cmr/m/it/10 And now, the fol-low-ing is VERY im-por-tant: \T1/cmr/m/n/10 Yo
+u \T1/cmr/bx/n/10 may \T1/cmr/m/n/10 still keep \T1/cmr/bx/n/10 GOD's
+ []
+
+[25] [26] [27] [28]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\char' on input line 1298.
@@ -460,18 +472,24 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\char' on input line 1298.
 
-[26] [27] [28] [29] [30] [31] [32] [33] [34] [35] [36] [37] [38]
+
+Overfull \hbox (5.13283pt too wide) in paragraph at lines 1364--1375
+\T1/cmr/m/n/10 Here, I would like to go into ac-tual, phys-i-cal killing, so no
+t into metaphor-
+ []
+
+[29] [30] [31] [32] [33] [34] [35] [36] [37] [38] [39] [40] [41]
 Underfull \hbox (badness 10000) in paragraph at lines 2223--2227
 
  []
 
-[39] [40] [41] [42] [43]
+[42] [43] [44] [45] [46]
 LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 2
 496.
  (a:/texlive/2023/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
-[44] [45] [46] [47]
+[47] [48] [49] [50] [51]
 Underfull \hbox (badness 10000) in paragraph at lines 2702--2711
 
  []
@@ -484,8 +502,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 2718--2720
 File: FreeChristian.jpeg Graphic file (type jpg)
 <use FreeChristian.jpeg>
 Package pdftex.def Info: FreeChristian.jpeg  used on input line 2723.
-(pdftex.def)             Requested size: 273.14647pt x 181.29596pt.
-[48] (./The Free Christian.aux)
+(pdftex.def)             Requested size: 230.46733pt x 152.96135pt.
+[52] (./The Free Christian.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-29>
@@ -494,8 +512,8 @@ Package rerunfilecheck Info: File `"The Free Christian".out' has not changed.
 (rerunfilecheck)             Checksum: 5753854B0B7E21C2F71AC6CC841CEF2B;19290.
  ) 
 Here is how much of TeX's memory you used:
- 10895 strings out of 474927
- 170903 string characters out of 5763541
+ 10899 strings out of 474927
+ 170931 string characters out of 5763541
  1933785 words of memory out of 5000000
  32122 multiletter control sequences out of 15000+600000
  569691 words of font info for 58 fonts, out of 8000000 for 9000
@@ -511,10 +529,10 @@ frm1000.pfb><a:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pf
 b><a:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb><a:/texl
 ive/2023/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb><a:/texlive/2023/t
 exmf-dist/fonts/type1/public/cm-super/sftt1000.pfb>
-Output written on "The Free Christian.pdf" (48 pages, 498971 bytes).
+Output written on "The Free Christian.pdf" (52 pages, 501462 bytes).
 PDF statistics:
- 930 PDF objects out of 1000 (max. 8388607)
- 847 compressed objects within 9 object streams
- 195 named destinations out of 1000 (max. 500000)
+ 948 PDF objects out of 1000 (max. 8388607)
+ 861 compressed objects within 9 object streams
+ 199 named destinations out of 1000 (max. 500000)
  886 words of extra memory for PDF output out of 10000 (max. 10000000)
 

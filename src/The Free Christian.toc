@@ -2,110 +2,110 @@
 \contentsline {section}{\numberline {1}Preface}{6}{section.1}%
 \contentsline {subsection}{\numberline {1.1}Using hints}{6}{subsection.1.1}%
 \contentsline {subsection}{\numberline {1.2}Thank you!}{6}{subsection.1.2}%
-\contentsline {subsection}{\numberline {1.3}Some words about myself}{6}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.3}Some words about myself}{7}{subsection.1.3}%
 \contentsline {section}{\numberline {2}What makes up a \char "22{Free Christian}\char "22 ?}{8}{section.2}%
 \contentsline {subsection}{\numberline {2.1}No church community}{8}{subsection.2.1}%
 \contentsline {subsection}{\numberline {2.2}The true bond}{8}{subsection.2.2}%
 \contentsline {subsection}{\numberline {2.3}The Bible as a \char "22{tool}\char "22 }{8}{subsection.2.3}%
 \contentsline {subsection}{\numberline {2.4}Belief and science}{8}{subsection.2.4}%
-\contentsline {subsection}{\numberline {2.5}What do I know about {\textbf {GOD}}?}{8}{subsection.2.5}%
+\contentsline {subsection}{\numberline {2.5}What do I know about {\textbf {GOD}}?}{9}{subsection.2.5}%
 \contentsline {section}{\numberline {3}Do you (not) believe in {\textbf {GOD}}?}{10}{section.3}%
 \contentsline {subsection}{\numberline {3.1}\char "22{I am a Jew and do not believe in {\textbf {JESUS}} as {\textbf {MESSIAH}}.}\char "22 }{10}{subsection.3.1}%
 \contentsline {subsection}{\numberline {3.2}\char "22{I am a Muslim and believe in Allah.}\char "22 }{10}{subsection.3.2}%
-\contentsline {subsection}{\numberline {3.3}\char "22{I belong to a different religion.}\char "22 }{10}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.3}\char "22{I belong to a different religion.}\char "22 }{11}{subsection.3.3}%
 \contentsline {subsection}{\numberline {3.4}\char "22{I do not believe in a god, or I am agnostic.}\char "22 }{11}{subsection.3.4}%
 \contentsline {subsection}{\numberline {3.5}\char "22{I want to believe in {\textbf {GOD}} (again).}\char "22 }{11}{subsection.3.5}%
-\contentsline {subsection}{\numberline {3.6}Summary}{11}{subsection.3.6}%
-\contentsline {section}{\numberline {4}Who and how is {\textbf {GOD}}?}{12}{section.4}%
-\contentsline {subsection}{\numberline {4.1}{\textbf {GOD}} is ...}{12}{subsection.4.1}%
-\contentsline {subsection}{\numberline {4.2}Special Bibel passages}{12}{subsection.4.2}%
-\contentsline {section}{\numberline {5}The Ten Commandments}{13}{section.5}%
-\contentsline {subsection}{\numberline {5.1}The Highest Offer}{13}{subsection.5.1}%
-\contentsline {subsubsection}{\numberline {5.1.1}The First Offer}{13}{subsubsection.5.1.1}%
-\contentsline {subsubsection}{\numberline {5.1.2}The Second Offer}{13}{subsubsection.5.1.2}%
-\contentsline {subsubsection}{\numberline {5.1.3}The Third Offer}{13}{subsubsection.5.1.3}%
-\contentsline {subsubsection}{\numberline {5.1.4}The Fourth Offer}{13}{subsubsection.5.1.4}%
-\contentsline {subsubsection}{\numberline {5.1.5}The Fifth Offer}{14}{subsubsection.5.1.5}%
-\contentsline {subsubsection}{\numberline {5.1.6}The Sixth Offer}{14}{subsubsection.5.1.6}%
-\contentsline {subsubsection}{\numberline {5.1.7}The Seventh Offer}{14}{subsubsection.5.1.7}%
-\contentsline {subsubsection}{\numberline {5.1.8}The Eighth Offer}{14}{subsubsection.5.1.8}%
-\contentsline {subsubsection}{\numberline {5.1.9}The Ninth Offer}{14}{subsubsection.5.1.9}%
-\contentsline {subsubsection}{\numberline {5.1.10}The Tenth Offer}{14}{subsubsection.5.1.10}%
-\contentsline {subsection}{\numberline {5.2}Comparison}{14}{subsection.5.2}%
-\contentsline {subsection}{\numberline {5.3}Summary}{16}{subsection.5.3}%
-\contentsline {section}{\numberline {6}Virtues and (Capital) Sins}{18}{section.6}%
-\contentsline {subsection}{\numberline {6.1}The Seven Virtues}{18}{subsection.6.1}%
-\contentsline {subsubsection}{\numberline {6.1.1}The First Virtue}{18}{subsubsection.6.1.1}%
-\contentsline {subsubsection}{\numberline {6.1.2}The Second Virtue}{18}{subsubsection.6.1.2}%
-\contentsline {subsubsection}{\numberline {6.1.3}The Third Virtue}{18}{subsubsection.6.1.3}%
-\contentsline {subsubsection}{\numberline {6.1.4}The Fourth Virtue}{18}{subsubsection.6.1.4}%
-\contentsline {subsubsection}{\numberline {6.1.5}The Fifth Virtue}{18}{subsubsection.6.1.5}%
-\contentsline {subsubsection}{\numberline {6.1.6}The Sixth Virtue}{19}{subsubsection.6.1.6}%
-\contentsline {subsubsection}{\numberline {6.1.7}The Seventh Virtue}{19}{subsubsection.6.1.7}%
-\contentsline {subsection}{\numberline {6.2}The Seven Capital Sins}{19}{subsection.6.2}%
-\contentsline {subsubsection}{\numberline {6.2.1}The First Capital Sin}{19}{subsubsection.6.2.1}%
-\contentsline {subsubsection}{\numberline {6.2.2}The Second Capital Sin}{19}{subsubsection.6.2.2}%
-\contentsline {subsubsection}{\numberline {6.2.3}The Third Capital Sin}{20}{subsubsection.6.2.3}%
-\contentsline {subsubsection}{\numberline {6.2.4}The Fourth Capital Sin}{20}{subsubsection.6.2.4}%
-\contentsline {subsubsection}{\numberline {6.2.5}The Fifth Capital Sin}{20}{subsubsection.6.2.5}%
-\contentsline {subsubsection}{\numberline {6.2.6}The Sixth Capital Sin}{20}{subsubsection.6.2.6}%
-\contentsline {subsubsection}{\numberline {6.2.7}The Seventh Capital Sin}{20}{subsubsection.6.2.7}%
-\contentsline {subsection}{\numberline {6.3}Comparison}{20}{subsection.6.3}%
-\contentsline {section}{\numberline {7}Will I go to {\textbf {HEAVEN}}?}{22}{section.7}%
-\contentsline {subsection}{\numberline {7.1}Completely in general}{22}{subsection.7.1}%
-\contentsline {subsection}{\numberline {7.2}We are all sinners}{22}{subsection.7.2}%
-\contentsline {subsection}{\numberline {7.3}What can I do?}{24}{subsection.7.3}%
-\contentsline {subsection}{\numberline {7.4}Summary}{25}{subsection.7.4}%
-\contentsline {section}{\numberline {8}Examining different sins in detail}{26}{section.8}%
-\contentsline {subsection}{\numberline {8.1}About breaking the Sabbath}{26}{subsection.8.1}%
-\contentsline {subsubsection}{\numberline {8.1.1}What about other holidays?}{26}{subsubsection.8.1.1}%
-\contentsline {subsubsection}{\numberline {8.1.2}\char "22{I also work on Sundays in my company.}\char "22 }{27}{subsubsection.8.1.2}%
-\contentsline {subsubsection}{\numberline {8.1.3}What about on-call duty?}{27}{subsubsection.8.1.3}%
-\contentsline {subsubsection}{\numberline {8.1.4}What is now considered work?}{27}{subsubsection.8.1.4}%
-\contentsline {subsection}{\numberline {8.2}About killing}{27}{subsection.8.2}%
-\contentsline {subsubsection}{\numberline {8.2.1}Killing fellow human beings}{28}{subsubsection.8.2.1}%
-\contentsline {subsubsection}{\numberline {8.2.2}A special case}{28}{subsubsection.8.2.2}%
-\contentsline {subsubsection}{\numberline {8.2.3}The trolley problem}{29}{subsubsection.8.2.3}%
-\contentsline {subsubsection}{\numberline {8.2.4}Other forms of active killing}{29}{subsubsection.8.2.4}%
-\contentsline {subsubsection}{\numberline {8.2.5}Passive killing}{30}{subsubsection.8.2.5}%
-\contentsline {subsubsection}{\numberline {8.2.6}Other forms of killing}{30}{subsubsection.8.2.6}%
-\contentsline {subsubsection}{\numberline {8.2.7}Summary}{30}{subsubsection.8.2.7}%
-\contentsline {subsection}{\numberline {8.3}About adultery}{31}{subsection.8.3}%
-\contentsline {subsubsection}{\numberline {8.3.1}Are you in a relationship?}{31}{subsubsection.8.3.1}%
-\contentsline {subsubsection}{\numberline {8.3.2}How is your relationship?}{31}{subsubsection.8.3.2}%
-\contentsline {subsubsection}{\numberline {8.3.3}Why did you stay?}{31}{subsubsection.8.3.3}%
-\contentsline {subsubsection}{\numberline {8.3.4}So, what about adultery?}{32}{subsubsection.8.3.4}%
-\contentsline {subsubsection}{\numberline {8.3.5}A specific topic for adults}{33}{subsubsection.8.3.5}%
-\contentsline {subsubsection}{\numberline {8.3.6}Is masturbation adultery?}{33}{subsubsection.8.3.6}%
-\contentsline {subsubsection}{\numberline {8.3.7}Summary}{33}{subsubsection.8.3.7}%
-\contentsline {subsection}{\numberline {8.4}About cursing and swearing}{34}{subsection.8.4}%
-\contentsline {subsubsection}{\numberline {8.4.1}Swearing and summoning}{34}{subsubsection.8.4.1}%
-\contentsline {subsubsection}{\numberline {8.4.2}Cursing and damning}{35}{subsubsection.8.4.2}%
-\contentsline {subsubsection}{\numberline {8.4.3}Summary}{35}{subsubsection.8.4.3}%
-\contentsline {section}{\numberline {9}Prayers, Hymns and Alleluiahs}{36}{section.9}%
-\contentsline {subsection}{\numberline {9.1}The {\textbf {LORD's}} Prayer}{36}{subsection.9.1}%
-\contentsline {subsubsection}{\numberline {9.1.1}If you are praying alone}{36}{subsubsection.9.1.1}%
-\contentsline {subsubsection}{\numberline {9.1.2}If you are praying in a group}{36}{subsubsection.9.1.2}%
-\contentsline {subsubsection}{\numberline {9.1.3}If you want to use modern English}{37}{subsubsection.9.1.3}%
-\contentsline {subsection}{\numberline {9.2}{\textbf {JESUS}}, come into my life (Surrender Prayer \#1)}{37}{subsection.9.2}%
-\contentsline {subsection}{\numberline {9.3}Surrender Prayer \#2}{38}{subsection.9.3}%
-\contentsline {subsection}{\numberline {9.4}Surrender Prayer \#3}{39}{subsection.9.4}%
-\contentsline {subsection}{\numberline {9.5}Surrender Prayer \#4}{39}{subsection.9.5}%
-\contentsline {subsection}{\numberline {9.6}The Creed of Belief}{39}{subsection.9.6}%
-\contentsline {subsection}{\numberline {9.7}Wie ein Fest nach langer Trauer}{40}{subsection.9.7}%
-\contentsline {subsubsection}{\numberline {9.7.1}Information}{40}{subsubsection.9.7.1}%
-\contentsline {subsubsection}{\numberline {9.7.2}Lyrics}{40}{subsubsection.9.7.2}%
-\contentsline {subsubsection}{\numberline {9.7.3}Translation}{41}{subsubsection.9.7.3}%
-\contentsline {subsection}{\numberline {9.8}Miracle Prayer}{42}{subsection.9.8}%
-\contentsline {subsection}{\numberline {9.9}Serenity Prayer}{43}{subsection.9.9}%
-\contentsline {subsection}{\numberline {9.10}More Christian songs}{43}{subsection.9.10}%
-\contentsline {section}{\numberline {10}My life with {\textbf {GOD}}}{44}{section.10}%
-\contentsline {subsection}{\numberline {10.1}Wednesday, September 27th, 2023}{44}{subsection.10.1}%
-\contentsline {subsection}{\numberline {10.2}Friday, September 29th, 2023}{44}{subsection.10.2}%
-\contentsline {subsection}{\numberline {10.3}Tuesday, October 3rd, 2023}{45}{subsection.10.3}%
-\contentsline {subsection}{\numberline {10.4}Saturday, October 7th, 2023}{45}{subsection.10.4}%
-\contentsline {subsection}{\numberline {10.5}Sunday, October 8th, 2023}{45}{subsection.10.5}%
-\contentsline {subsection}{\numberline {10.6}Sunday, Oktober 22nd, 2023}{46}{subsection.10.6}%
-\contentsline {subsection}{\numberline {10.7}Friday, October 27th, 2023}{46}{subsection.10.7}%
-\contentsline {subsection}{\numberline {10.8}Sunday, October 29th, 2023}{46}{subsection.10.8}%
-\contentsline {section}{\numberline {11}Peace be with you!}{48}{section.11}%
+\contentsline {subsection}{\numberline {3.6}Summary}{12}{subsection.3.6}%
+\contentsline {section}{\numberline {4}Who and how is {\textbf {GOD}}?}{13}{section.4}%
+\contentsline {subsection}{\numberline {4.1}{\textbf {GOD}} is ...}{13}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Special Bibel passages}{13}{subsection.4.2}%
+\contentsline {section}{\numberline {5}The Ten Commandments}{14}{section.5}%
+\contentsline {subsection}{\numberline {5.1}The Highest Offer}{14}{subsection.5.1}%
+\contentsline {subsubsection}{\numberline {5.1.1}The First Offer}{14}{subsubsection.5.1.1}%
+\contentsline {subsubsection}{\numberline {5.1.2}The Second Offer}{14}{subsubsection.5.1.2}%
+\contentsline {subsubsection}{\numberline {5.1.3}The Third Offer}{14}{subsubsection.5.1.3}%
+\contentsline {subsubsection}{\numberline {5.1.4}The Fourth Offer}{15}{subsubsection.5.1.4}%
+\contentsline {subsubsection}{\numberline {5.1.5}The Fifth Offer}{15}{subsubsection.5.1.5}%
+\contentsline {subsubsection}{\numberline {5.1.6}The Sixth Offer}{15}{subsubsection.5.1.6}%
+\contentsline {subsubsection}{\numberline {5.1.7}The Seventh Offer}{15}{subsubsection.5.1.7}%
+\contentsline {subsubsection}{\numberline {5.1.8}The Eighth Offer}{15}{subsubsection.5.1.8}%
+\contentsline {subsubsection}{\numberline {5.1.9}The Ninth Offer}{15}{subsubsection.5.1.9}%
+\contentsline {subsubsection}{\numberline {5.1.10}The Tenth Offer}{16}{subsubsection.5.1.10}%
+\contentsline {subsection}{\numberline {5.2}Comparison}{16}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Summary}{18}{subsection.5.3}%
+\contentsline {section}{\numberline {6}Virtues and (Capital) Sins}{19}{section.6}%
+\contentsline {subsection}{\numberline {6.1}The Seven Virtues}{19}{subsection.6.1}%
+\contentsline {subsubsection}{\numberline {6.1.1}The First Virtue}{19}{subsubsection.6.1.1}%
+\contentsline {subsubsection}{\numberline {6.1.2}The Second Virtue}{19}{subsubsection.6.1.2}%
+\contentsline {subsubsection}{\numberline {6.1.3}The Third Virtue}{19}{subsubsection.6.1.3}%
+\contentsline {subsubsection}{\numberline {6.1.4}The Fourth Virtue}{19}{subsubsection.6.1.4}%
+\contentsline {subsubsection}{\numberline {6.1.5}The Fifth Virtue}{20}{subsubsection.6.1.5}%
+\contentsline {subsubsection}{\numberline {6.1.6}The Sixth Virtue}{20}{subsubsection.6.1.6}%
+\contentsline {subsubsection}{\numberline {6.1.7}The Seventh Virtue}{20}{subsubsection.6.1.7}%
+\contentsline {subsection}{\numberline {6.2}The Seven Capital Sins}{20}{subsection.6.2}%
+\contentsline {subsubsection}{\numberline {6.2.1}The First Capital Sin}{20}{subsubsection.6.2.1}%
+\contentsline {subsubsection}{\numberline {6.2.2}The Second Capital Sin}{20}{subsubsection.6.2.2}%
+\contentsline {subsubsection}{\numberline {6.2.3}The Third Capital Sin}{21}{subsubsection.6.2.3}%
+\contentsline {subsubsection}{\numberline {6.2.4}The Fourth Capital Sin}{21}{subsubsection.6.2.4}%
+\contentsline {subsubsection}{\numberline {6.2.5}The Fifth Capital Sin}{21}{subsubsection.6.2.5}%
+\contentsline {subsubsection}{\numberline {6.2.6}The Sixth Capital Sin}{21}{subsubsection.6.2.6}%
+\contentsline {subsubsection}{\numberline {6.2.7}The Seventh Capital Sin}{22}{subsubsection.6.2.7}%
+\contentsline {subsection}{\numberline {6.3}Comparison}{22}{subsection.6.3}%
+\contentsline {section}{\numberline {7}Will I go to {\textbf {HEAVEN}}?}{23}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Completely in general}{23}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}We are all sinners}{23}{subsection.7.2}%
+\contentsline {subsection}{\numberline {7.3}What can I do?}{25}{subsection.7.3}%
+\contentsline {subsection}{\numberline {7.4}Summary}{26}{subsection.7.4}%
+\contentsline {section}{\numberline {8}Examining different sins in detail}{28}{section.8}%
+\contentsline {subsection}{\numberline {8.1}About breaking the Sabbath}{28}{subsection.8.1}%
+\contentsline {subsubsection}{\numberline {8.1.1}What about other holidays?}{28}{subsubsection.8.1.1}%
+\contentsline {subsubsection}{\numberline {8.1.2}\char "22{I also work on Sundays in my company.}\char "22 }{29}{subsubsection.8.1.2}%
+\contentsline {subsubsection}{\numberline {8.1.3}What about on-call duty?}{29}{subsubsection.8.1.3}%
+\contentsline {subsubsection}{\numberline {8.1.4}What is now considered work?}{29}{subsubsection.8.1.4}%
+\contentsline {subsection}{\numberline {8.2}About killing}{30}{subsection.8.2}%
+\contentsline {subsubsection}{\numberline {8.2.1}Killing fellow human beings}{30}{subsubsection.8.2.1}%
+\contentsline {subsubsection}{\numberline {8.2.2}A special case}{31}{subsubsection.8.2.2}%
+\contentsline {subsubsection}{\numberline {8.2.3}The trolley problem}{31}{subsubsection.8.2.3}%
+\contentsline {subsubsection}{\numberline {8.2.4}Other forms of active killing}{31}{subsubsection.8.2.4}%
+\contentsline {subsubsection}{\numberline {8.2.5}Passive killing}{32}{subsubsection.8.2.5}%
+\contentsline {subsubsection}{\numberline {8.2.6}Other forms of killing}{33}{subsubsection.8.2.6}%
+\contentsline {subsubsection}{\numberline {8.2.7}Summary}{33}{subsubsection.8.2.7}%
+\contentsline {subsection}{\numberline {8.3}About adultery}{33}{subsection.8.3}%
+\contentsline {subsubsection}{\numberline {8.3.1}Are you in a relationship?}{33}{subsubsection.8.3.1}%
+\contentsline {subsubsection}{\numberline {8.3.2}How is your relationship?}{34}{subsubsection.8.3.2}%
+\contentsline {subsubsection}{\numberline {8.3.3}Why did you stay?}{34}{subsubsection.8.3.3}%
+\contentsline {subsubsection}{\numberline {8.3.4}So, what about adultery?}{34}{subsubsection.8.3.4}%
+\contentsline {subsubsection}{\numberline {8.3.5}A specific topic for adults}{35}{subsubsection.8.3.5}%
+\contentsline {subsubsection}{\numberline {8.3.6}Is masturbation adultery?}{36}{subsubsection.8.3.6}%
+\contentsline {subsubsection}{\numberline {8.3.7}Summary}{36}{subsubsection.8.3.7}%
+\contentsline {subsection}{\numberline {8.4}About cursing and swearing}{37}{subsection.8.4}%
+\contentsline {subsubsection}{\numberline {8.4.1}Swearing and summoning}{37}{subsubsection.8.4.1}%
+\contentsline {subsubsection}{\numberline {8.4.2}Cursing and damning}{38}{subsubsection.8.4.2}%
+\contentsline {subsubsection}{\numberline {8.4.3}Summary}{38}{subsubsection.8.4.3}%
+\contentsline {section}{\numberline {9}Prayers, Hymns and Alleluiahs}{39}{section.9}%
+\contentsline {subsection}{\numberline {9.1}The {\textbf {LORD's}} Prayer}{39}{subsection.9.1}%
+\contentsline {subsubsection}{\numberline {9.1.1}If you are praying alone}{39}{subsubsection.9.1.1}%
+\contentsline {subsubsection}{\numberline {9.1.2}If you are praying in a group}{39}{subsubsection.9.1.2}%
+\contentsline {subsubsection}{\numberline {9.1.3}If you want to use modern English}{40}{subsubsection.9.1.3}%
+\contentsline {subsection}{\numberline {9.2}{\textbf {JESUS}}, come into my life (Surrender Prayer \#1)}{40}{subsection.9.2}%
+\contentsline {subsection}{\numberline {9.3}Surrender Prayer \#2}{41}{subsection.9.3}%
+\contentsline {subsection}{\numberline {9.4}Surrender Prayer \#3}{42}{subsection.9.4}%
+\contentsline {subsection}{\numberline {9.5}Surrender Prayer \#4}{42}{subsection.9.5}%
+\contentsline {subsection}{\numberline {9.6}The Creed of Belief}{42}{subsection.9.6}%
+\contentsline {subsection}{\numberline {9.7}Wie ein Fest nach langer Trauer}{43}{subsection.9.7}%
+\contentsline {subsubsection}{\numberline {9.7.1}Information}{43}{subsubsection.9.7.1}%
+\contentsline {subsubsection}{\numberline {9.7.2}Lyrics}{43}{subsubsection.9.7.2}%
+\contentsline {subsubsection}{\numberline {9.7.3}Translation}{44}{subsubsection.9.7.3}%
+\contentsline {subsection}{\numberline {9.8}Miracle Prayer}{45}{subsection.9.8}%
+\contentsline {subsection}{\numberline {9.9}Serenity Prayer}{46}{subsection.9.9}%
+\contentsline {subsection}{\numberline {9.10}More Christian songs}{46}{subsection.9.10}%
+\contentsline {section}{\numberline {10}My life with {\textbf {GOD}}}{47}{section.10}%
+\contentsline {subsection}{\numberline {10.1}Wednesday, September 27th, 2023}{47}{subsection.10.1}%
+\contentsline {subsection}{\numberline {10.2}Friday, September 29th, 2023}{47}{subsection.10.2}%
+\contentsline {subsection}{\numberline {10.3}Tuesday, October 3rd, 2023}{48}{subsection.10.3}%
+\contentsline {subsection}{\numberline {10.4}Saturday, October 7th, 2023}{48}{subsection.10.4}%
+\contentsline {subsection}{\numberline {10.5}Sunday, October 8th, 2023}{49}{subsection.10.5}%
+\contentsline {subsection}{\numberline {10.6}Sunday, Oktober 22nd, 2023}{49}{subsection.10.6}%
+\contentsline {subsection}{\numberline {10.7}Friday, October 27th, 2023}{50}{subsection.10.7}%
+\contentsline {subsection}{\numberline {10.8}Sunday, October 29th, 2023}{50}{subsection.10.8}%
+\contentsline {section}{\numberline {11}Peace be with you!}{52}{section.11}%
