@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.22)  11 NOV 2023 20:09
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.22)  12 NOV 2023 17:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -596,140 +596,160 @@ Underfull \hbox (badness 10000) in paragraph at lines 420--441
  []
 
 [14]
-Overfull \hbox (4.5126pt too wide) in paragraph at lines 444--467
+Overfull \hbox (4.5126pt too wide) in paragraph at lines 444--475
 \T1/cmr/m/n/12 and gen-eral des-ig-na-tions, and how \T1/cmr/bx/n/12 HE \T1/cmr
 /m/n/12 man-i-fests \T1/cmr/bx/n/12 HIM-SELF\T1/cmr/m/n/12 .
  []
 
 
-Overfull \hbox (8.44154pt too wide) in paragraph at lines 444--467
+Overfull \hbox (8.44154pt too wide) in paragraph at lines 444--475
 \T1/cmr/m/n/12 Of course, this also in-cludes \T1/cmr/bx/n/12 JE-SUS \T1/cmr/m/
-n/12 and the \T1/cmr/bx/n/12 HOLY SPIRIT\T1/cmr/m/n/12 .
+n/12 and the \T1/cmr/bx/n/12 HOLY SPIRIT\T1/cmr/m/n/12 . 
  []
 
-[15{a:/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
-[16]
-Overfull \hbox (3.45937pt too wide) in paragraph at lines 517--523
+
+Underfull \hbox (badness 10000) in paragraph at lines 444--475
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 444--475
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 444--475
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 444--475
+
+ []
+
+[15] [16{a:/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
+[17]
+Overfull \hbox (3.45937pt too wide) in paragraph at lines 530--536
 \T1/cmr/m/n/12 The High-est Of-fer is: I will love and praise \T1/cmr/bx/n/12 G
 OD\T1/cmr/m/n/12 , the \T1/cmr/bx/n/12 LORD\T1/cmr/m/n/12 ,
  []
 
-[17] [18]
-Overfull \hbox (6.67198pt too wide) in paragraph at lines 622--648
+[18] [19]
+Overfull \hbox (6.67198pt too wide) in paragraph at lines 635--661
 \T1/cmr/m/n/12 broad-est sense. For ex-am-ple the first com-mand-ment is: "Thou
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 622--648
+Underfull \hbox (badness 10000) in paragraph at lines 635--661
 
  []
 
-[19] [20] [21]
-Underfull \hbox (badness 10000) in paragraph at lines 770--772
+[20] [21] [22]
+Underfull \hbox (badness 10000) in paragraph at lines 783--785
 
  []
 
-[22] [23] [24] [25] [26] [27] [28]
-Underfull \hbox (badness 10000) in paragraph at lines 1020--1024
+[23] [24] [25] [26] [27] [28] [29]
+Underfull \hbox (badness 10000) in paragraph at lines 1033--1037
 
  []
 
 
-Overfull \hbox (1.46678pt too wide) in paragraph at lines 1040--1044
+Overfull \hbox (1.46678pt too wide) in paragraph at lines 1053--1057
 []\T1/cmr/m/n/12 Have you never, out of de-spair or other rea-sons, thought
  []
 
-[29]
-Overfull \hbox (28.35881pt too wide) in paragraph at lines 1087--1098
+[30]
+Overfull \hbox (28.35881pt too wide) in paragraph at lines 1100--1111
 \T1/cmr/m/n/12 son, daugh-ter or stu-dent, be-cause he (or she) was "naughty"?
  []
 
-[30]
-Overfull \hbox (0.9447pt too wide) in paragraph at lines 1098--1101
+[31]
+Overfull \hbox (0.9447pt too wide) in paragraph at lines 1111--1114
 []\T1/cmr/m/n/12 Have you ever been jeal-ous, be-cause some-one had some-
  []
 
-[31]
-Underfull \hbox (badness 10000) in paragraph at lines 1166--1171
+[32]
+Underfull \hbox (badness 10000) in paragraph at lines 1179--1184
 
  []
 
-[32] [33] [34] [35]
+[33] [34] [35] [36]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\char' on input line 1358.
+(hyperref)                removing `\char' on input line 1371.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\char' on input line 1358.
+(hyperref)                removing `\char' on input line 1371.
 
-[36] [37] [38]
-Overfull \hbox (3.80925pt too wide) in paragraph at lines 1546--1564
+[37] [38] [39]
+Overfull \hbox (3.80925pt too wide) in paragraph at lines 1559--1577
 \T1/cmr/m/n/12 Another sce-nario is the so-called "[][]Trol-ley prob-lem[][]", 
 a thought
  []
 
 
-Overfull \hbox (7.7467pt too wide) in paragraph at lines 1546--1564
+Overfull \hbox (7.7467pt too wide) in paragraph at lines 1559--1577
 \T1/cmr/m/n/12 un-aware of the whole sit-u-a-tion. And by ad-just-ing the switc
 hes,
  []
 
-[39] [40] [41] [42] [43] [44]
-Overfull \hbox (8.25809pt too wide) in paragraph at lines 1850--1855
+[40] [41] [42] [43] [44] [45]
+Overfull \hbox (8.25809pt too wide) in paragraph at lines 1863--1868
 \T1/cmr/m/n/12 com-mit adul-tery, and who-ever mar-ries a di-vorced woman
  []
 
-[45] [46] [47] [48] [49] [50]
-Overfull \hbox (4.19536pt too wide) in paragraph at lines 2077--2080
+[46] [47] [48] [49] [50] [51]
+Overfull \hbox (4.19536pt too wide) in paragraph at lines 2090--2093
 \T1/cmr/m/n/12 In this chap-ter I would like to of-fer you some beau-ti-ful pra
 yers,
  []
 
-[51] [52] [53] [54]
-Overfull \hbox (9.29063pt too wide) in paragraph at lines 2256--2260
+[52] [53] [54] [55]
+Overfull \hbox (9.29063pt too wide) in paragraph at lines 2269--2273
 []\T1/cmr/m/n/12 Come into my life and give my \T1/cmr/bx/n/12 YOUR HOLY SPIRIT
 \T1/cmr/m/n/12 . 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2283--2287
+Underfull \hbox (badness 10000) in paragraph at lines 2296--2300
 
  []
 
-[55] [56] [57] [58] [59] [60] [61]
+[56] [57] [58] [59] [60] [61] [62]
 LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 2
-556.
+569.
 
 (a:/texlive/2023/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
-) [62]
-Overfull \hbox (18.69316pt too wide) in paragraph at lines 2559--2592
+) [63]
+Overfull \hbox (18.69316pt too wide) in paragraph at lines 2572--2605
 \T1/cmr/m/n/12 was, among other things, over-tired, and tor-mented by headaches
 .
  []
 
-[63] [64] [65] [66] [67] [68]
-Underfull \hbox (badness 10000) in paragraph at lines 2773--2777
+[64] [65] [66] [67] [68] [69]
+Underfull \hbox (badness 10000) in paragraph at lines 2786--2790
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2784--2786
+Underfull \hbox (badness 10000) in paragraph at lines 2797--2799
 
  []
 
 File: FreeChristian.jpeg Graphic file (type jpg)
 <use FreeChristian.jpeg>
-Package pdftex.def Info: FreeChristian.jpeg  used on input line 2790.
+Package pdftex.def Info: FreeChristian.jpeg  used on input line 2803.
 (pdftex.def)             Requested size: 307.28978pt x 203.95389pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 2793--2801
+Underfull \hbox (badness 10000) in paragraph at lines 2806--2814
 
  []
 
-[69] (./The Free Christian.aux)
+[70] (./The Free Christian.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-29>
@@ -738,8 +758,8 @@ Package rerunfilecheck Info: File `"The Free Christian".out' has not changed.
 (rerunfilecheck)             Checksum: FF3DDC5AD3C2A103678B4811410DDE56;19472.
  ) 
 Here is how much of TeX's memory you used:
- 10998 strings out of 474927
- 172313 string characters out of 5763541
+ 10999 strings out of 474927
+ 172320 string characters out of 5763541
  1931785 words of memory out of 5000000
  32199 multiletter control sequences out of 15000+600000
  570616 words of font info for 61 fonts, out of 8000000 for 9000
@@ -755,10 +775,10 @@ frm1200.pfb><a:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pf
 b><a:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb><a:/texl
 ive/2023/texmf-dist/fonts/type1/public/cm-super/sfti1440.pfb><a:/texlive/2023/t
 exmf-dist/fonts/type1/public/cm-super/sftt1200.pfb>
-Output written on "The Free Christian.pdf" (69 pages, 503706 bytes).
+Output written on "The Free Christian.pdf" (70 pages, 504046 bytes).
 PDF statistics:
- 1036 PDF objects out of 1200 (max. 8388607)
- 931 compressed objects within 10 object streams
- 217 named destinations out of 1000 (max. 500000)
+ 1040 PDF objects out of 1200 (max. 8388607)
+ 934 compressed objects within 10 object streams
+ 218 named destinations out of 1000 (max. 500000)
  894 words of extra memory for PDF output out of 10000 (max. 10000000)
 
