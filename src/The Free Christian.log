@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.22)  11 FEB 2024 23:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.22)  9 MAR 2024 21:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1124,97 +1124,102 @@ Underfull \hbox (badness 10000) in paragraph at lines 1738--1810
 
  []
 
-[49] [50] [51] [52] [53] [54]
-Overfull \hbox (8.25809pt too wide) in paragraph at lines 2034--2039
+[49]
+Underfull \hbox (badness 10000) in paragraph at lines 1812--1850
+
+ []
+
+[50] [51] [52] [53] [54]
+Overfull \hbox (8.25809pt too wide) in paragraph at lines 2036--2041
 \T1/cmr/m/n/12 com-mit adul-tery, and who-ever mar-ries a di-vorced woman
  []
 
 [55] [56] [57] [58] [59]
-Overfull \hbox (4.19536pt too wide) in paragraph at lines 2261--2264
+Overfull \hbox (4.19536pt too wide) in paragraph at lines 2263--2266
 \T1/cmr/m/n/12 In this chap-ter I would like to of-fer you some beau-ti-ful pra
 yers,
  []
 
 [60] [61] [62] [63]
-Overfull \hbox (9.29063pt too wide) in paragraph at lines 2440--2444
+Overfull \hbox (9.29063pt too wide) in paragraph at lines 2442--2446
 []\T1/cmr/m/n/12 Come into my life and give my \T1/cmr/bx/n/12 YOUR HOLY SPIRIT
 \T1/cmr/m/n/12 . 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2467--2471
+Underfull \hbox (badness 10000) in paragraph at lines 2469--2473
 
  []
 
 [64]
-Underfull \hbox (badness 10000) in paragraph at lines 2498--2546
+Underfull \hbox (badness 10000) in paragraph at lines 2500--2548
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2498--2546
+Underfull \hbox (badness 10000) in paragraph at lines 2500--2548
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2498--2546
+Underfull \hbox (badness 10000) in paragraph at lines 2500--2548
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2498--2546
+Underfull \hbox (badness 10000) in paragraph at lines 2500--2548
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2498--2546
+Underfull \hbox (badness 10000) in paragraph at lines 2500--2548
 
  []
 
 
-Overfull \hbox (12.50247pt too wide) in paragraph at lines 2498--2546
+Overfull \hbox (12.50247pt too wide) in paragraph at lines 2500--2548
 \T1/cmr/m/n/12 and you eat the piece of bread in mem-ory of \T1/cmr/bx/n/12 JE-
 SUS CHRIST\T1/cmr/m/n/12 .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2498--2546
+Underfull \hbox (badness 10000) in paragraph at lines 2500--2548
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2498--2546
+Underfull \hbox (badness 10000) in paragraph at lines 2500--2548
 
  []
 
 [65] [66] [67] [68] [69] [70]
 LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 2
-791.
+793.
 
 (a:/texlive/2023/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 ) [71]
-Overfull \hbox (18.69316pt too wide) in paragraph at lines 2794--2827
+Overfull \hbox (18.69316pt too wide) in paragraph at lines 2796--2829
 \T1/cmr/m/n/12 was, among other things, over-tired, and tor-mented by headaches
 .
  []
 
 [72] [73] [74] [75] [76] [77]
-Underfull \hbox (badness 10000) in paragraph at lines 3008--3012
+Underfull \hbox (badness 10000) in paragraph at lines 3010--3014
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3019--3021
+Underfull \hbox (badness 10000) in paragraph at lines 3021--3023
 
  []
 
 File: FreeChristian.jpeg Graphic file (type jpg)
 <use FreeChristian.jpeg>
-Package pdftex.def Info: FreeChristian.jpeg  used on input line 3025.
+Package pdftex.def Info: FreeChristian.jpeg  used on input line 3027.
 (pdftex.def)             Requested size: 307.28978pt x 203.95389pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 3028--3036
+Underfull \hbox (badness 10000) in paragraph at lines 3030--3038
 
  []
 
@@ -1244,7 +1249,7 @@ frm1200.pfb><a:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pf
 b><a:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb><a:/texl
 ive/2023/texmf-dist/fonts/type1/public/cm-super/sfti1440.pfb><a:/texlive/2023/t
 exmf-dist/fonts/type1/public/cm-super/sftt1200.pfb>
-Output written on "The Free Christian.pdf" (78 pages, 509640 bytes).
+Output written on "The Free Christian.pdf" (78 pages, 509620 bytes).
 PDF statistics:
  1084 PDF objects out of 1200 (max. 8388607)
  970 compressed objects within 10 object streams
