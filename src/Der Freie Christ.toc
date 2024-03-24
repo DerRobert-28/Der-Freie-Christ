@@ -70,18 +70,18 @@
 \contentsline {subsubsection}{\numberline {8.2.5}Passives T\"oten}{53}{subsubsection.8.2.5}%
 \contentsline {subsubsection}{\numberline {8.2.6}Weitere T\"otungsarten}{54}{subsubsection.8.2.6}%
 \contentsline {subsubsection}{\numberline {8.2.7}Zusammenfassung}{54}{subsubsection.8.2.7}%
-\contentsline {subsection}{\numberline {8.3}Vom Ehebrechen}{54}{subsection.8.3}%
+\contentsline {subsection}{\numberline {8.3}Vom Ehebrechen}{55}{subsection.8.3}%
 \contentsline {subsubsection}{\numberline {8.3.1}Bist du in einer Beziehung?}{55}{subsubsection.8.3.1}%
 \contentsline {subsubsection}{\numberline {8.3.2}Wie steht es um deine Beziehung?}{55}{subsubsection.8.3.2}%
-\contentsline {subsubsection}{\numberline {8.3.3}Warum bist du geblieben?}{55}{subsubsection.8.3.3}%
-\contentsline {subsubsection}{\numberline {8.3.4}Wie steht es nun mit Ehebruch?}{56}{subsubsection.8.3.4}%
+\contentsline {subsubsection}{\numberline {8.3.3}Warum bist du geblieben?}{56}{subsubsection.8.3.3}%
+\contentsline {subsubsection}{\numberline {8.3.4}Wie steht es nun mit Ehebruch?}{57}{subsubsection.8.3.4}%
 \contentsline {subsubsection}{\numberline {8.3.5}Ein besonderes Erwachsenenthema}{58}{subsubsection.8.3.5}%
-\contentsline {subsubsection}{\numberline {8.3.6}Ist Selbstbefriedigung Ehebruch?}{58}{subsubsection.8.3.6}%
-\contentsline {subsubsection}{\numberline {8.3.7}Zusammenfassung}{59}{subsubsection.8.3.7}%
+\contentsline {subsubsection}{\numberline {8.3.6}Ist Selbstbefriedigung Ehebruch?}{59}{subsubsection.8.3.6}%
+\contentsline {subsubsection}{\numberline {8.3.7}Zusammenfassung}{60}{subsubsection.8.3.7}%
 \contentsline {subsection}{\numberline {8.4}Vom Fluchen und Schw\"oren}{60}{subsection.8.4}%
-\contentsline {subsubsection}{\numberline {8.4.1}(Be-)Schw\"oren}{60}{subsubsection.8.4.1}%
-\contentsline {subsubsection}{\numberline {8.4.2}(Ver-)Fluchen}{61}{subsubsection.8.4.2}%
-\contentsline {subsubsection}{\numberline {8.4.3}Zusammenfassung}{62}{subsubsection.8.4.3}%
+\contentsline {subsubsection}{\numberline {8.4.1}(Be-)Schw\"oren}{61}{subsubsection.8.4.1}%
+\contentsline {subsubsection}{\numberline {8.4.2}(Ver-)Fluchen}{62}{subsubsection.8.4.2}%
+\contentsline {subsubsection}{\numberline {8.4.3}Zusammenfassung}{63}{subsubsection.8.4.3}%
 \contentsline {section}{\numberline {9}Gebete, Rituale und Loblieder}{64}{section.9}%
 \contentsline {subsection}{\numberline {9.1}Das {\textbf {VATER}}-Unser}{64}{subsection.9.1}%
 \contentsline {subsubsection}{\numberline {9.1.1}Wenn du alleine betest}{64}{subsubsection.9.1.1}%
