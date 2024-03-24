@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.22)  9 MAR 2024 21:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.22)  24 MAR 2024 03:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1179,111 +1179,151 @@ Underfull \hbox (badness 10000) in paragraph at lines 1847--1921
  []
 
 [51] [52]
-Underfull \hbox (badness 10000) in paragraph at lines 1923--1962
+Underfull \hbox (badness 10000) in paragraph at lines 1923--1970
 
  []
 
 
-Overfull \hbox (9.02594pt too wide) in paragraph at lines 1923--1962
+Overfull \hbox (9.02594pt too wide) in paragraph at lines 1923--1970
 \T1/cmr/m/n/12 se ger-ne Fleisch in jeg-li-cher Form, al-so bei-spiels-wei-se W
 urstauf-
  []
 
-[53] [54]
-Overfull \hbox (12.42386pt too wide) in paragraph at lines 2038--2090
+
+Underfull \hbox (badness 10000) in paragraph at lines 1923--1970
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1923--1970
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1923--1970
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1923--1970
+
+ []
+
+[53]
+Underfull \hbox (badness 10000) in paragraph at lines 1972--1996
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1972--1996
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1998--2015
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1998--2015
+
+ []
+
+[54] [55]
+Overfull \hbox (12.42386pt too wide) in paragraph at lines 2054--2106
 \T1/cmr/m/n/12 wird die Be-zie-hung "Ehe" aus-ein-an-der-ge-bro-chen. Denn \T1/
 cmr/bx/n/12 GOTT
  []
 
-[55] [56] [57] [58] [59] [60] [61] [62] [63] [64] [65] [66] [67] [68]
-Underfull \hbox (badness 10000) in paragraph at lines 2591--2595
+[56] [57] [58] [59] [60] [61] [62] [63] [64] [65] [66] [67] [68]
+Underfull \hbox (badness 10000) in paragraph at lines 2607--2611
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2623--2671
+Underfull \hbox (badness 10000) in paragraph at lines 2639--2687
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2623--2671
+Underfull \hbox (badness 10000) in paragraph at lines 2639--2687
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2623--2671
+Underfull \hbox (badness 10000) in paragraph at lines 2639--2687
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2623--2671
+Underfull \hbox (badness 10000) in paragraph at lines 2639--2687
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2623--2671
+Underfull \hbox (badness 10000) in paragraph at lines 2639--2687
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2623--2671
+Underfull \hbox (badness 10000) in paragraph at lines 2639--2687
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2623--2671
+Underfull \hbox (badness 10000) in paragraph at lines 2639--2687
 
  []
 
 [69] [70] [71]
-Overfull \hbox (9.91756pt too wide) in paragraph at lines 2743--2747
+Overfull \hbox (9.91756pt too wide) in paragraph at lines 2759--2763
 []\T1/cmr/bx/n/12 DU \T1/cmr/m/n/12 hast einen Trös-ter ver-spro-chen, der bei 
 je-dem Schritt
  []
 
 [72] [73] [74]
 LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 2
-889.
+905.
  (a:/texlive/2023/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 ) [75]
 [76] [77] [78]
-Overfull \hbox (0.44081pt too wide) in paragraph at lines 2997--3008
+Overfull \hbox (0.44081pt too wide) in paragraph at lines 3013--3024
 \T1/cmr/m/n/12 Vergangene Nacht ha-be ich zu \T1/cmr/bx/n/12 GOTT \T1/cmr/m/n/1
 2 ge-be-tet, und ein Über-
  []
 
 [79] [80] [81]
-Underfull \hbox (badness 10000) in paragraph at lines 3107--3111
+Underfull \hbox (badness 10000) in paragraph at lines 3123--3127
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3118--3120
+Underfull \hbox (badness 10000) in paragraph at lines 3134--3136
 
  []
 
 File: FreeChristian.jpeg Graphic file (type jpg)
 <use FreeChristian.jpeg>
-Package pdftex.def Info: FreeChristian.jpeg  used on input line 3124.
+Package pdftex.def Info: FreeChristian.jpeg  used on input line 3140.
 (pdftex.def)             Requested size: 307.28978pt x 203.95389pt.
 [82]
-Underfull \hbox (badness 10000) in paragraph at lines 3128--3131
+Underfull \hbox (badness 10000) in paragraph at lines 3144--3147
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3142--3145
+Underfull \hbox (badness 10000) in paragraph at lines 3158--3161
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3142--3145
+Underfull \hbox (badness 10000) in paragraph at lines 3158--3161
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3146--3154
+Underfull \hbox (badness 10000) in paragraph at lines 3162--3170
 
  []
 
@@ -1313,7 +1353,7 @@ frm1200.pfb><a:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pf
 b><a:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb><a:/texl
 ive/2023/texmf-dist/fonts/type1/public/cm-super/sfti1440.pfb><a:/texlive/2023/t
 exmf-dist/fonts/type1/public/cm-super/sftt1200.pfb>
-Output written on "Der Freie Christ.pdf" (83 pages, 528635 bytes).
+Output written on "Der Freie Christ.pdf" (83 pages, 528680 bytes).
 PDF statistics:
  1096 PDF objects out of 1200 (max. 8388607)
  977 compressed objects within 10 object streams
